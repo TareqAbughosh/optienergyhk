@@ -11,14 +11,10 @@
                             <div class="intro_layers_wrapper">
                                 <div class="intro_layers">
                                     <div class="intro_layer">
-                                        <h6 class="intro_before_featured_word">01. Providing for Today</h6>
+                                        <h6 class="intro_before_featured_word">Our Mission</h6>
                                         <h2 class="text-capitalize intro_featured_word">
-                                            Vital Oil &
-                                            Natural Gas
+                                            Deliver a comprehensive suite of reliable and efficient energy services.
                                         </h2>
-                                        <a href="#" class="btn btn-outline-darkgrey big-btn">get a quote</a>
-                                        <span class="text-divider">or</span>
-                                        <a href="#" class="btn just-link">Request a Callback</a>
                                     </div>
                                 </div> <!-- eof .intro_layers -->
                             </div> <!-- eof .intro_layers_wrapper -->
@@ -34,13 +30,10 @@
                             <div class="intro_layers_wrapper">
                                 <div class="intro_layers">
                                     <div class="intro_layer">
-                                        <h6 class="intro_before_featured_word">02. Innovations</h6>
+                                        <h6 class="intro_before_featured_word">Our Vision</h6>
                                         <h2 class="text-capitalize intro_featured_word">
-                                            Know How Solutions
+                                            Global nexus of innovative and sustainable energy solutions.
                                         </h2>
-                                        <a href="#" class="btn btn-outline-darkgrey big-btn">get a quote</a>
-                                        <span class="text-divider">or</span>
-                                        <a href="#" class="btn just-link">Request a Callback</a>
                                     </div>
                                 </div> <!-- eof .intro_layers -->
                             </div> <!-- eof .intro_layers_wrapper -->
@@ -56,13 +49,10 @@
                             <div class="intro_layers_wrapper">
                                 <div class="intro_layers">
                                     <div class="intro_layer">
-                                        <h6 class="intro_before_featured_word">03. Industry</h6>
+                                        <h6 class="intro_before_featured_word">Our goals</h6>
                                         <h2 class="text-capitalize intro_featured_word">
-                                            Energy & Commodities
+                                            Become a global leader in integrated energy solutions.
                                         </h2>
-                                        <a href="#" class="btn btn-outline-darkgrey big-btn">get a quote</a>
-                                        <span class="text-divider">or</span>
-                                        <a href="#" class="btn just-link">Request a Callback</a>
                                     </div>
                                 </div> <!-- eof .intro_layers -->
                             </div> <!-- eof .intro_layers_wrapper -->
@@ -177,7 +167,6 @@
                     </span>
                 </h2>
                 <div class="divider-30"></div>
-                <a class="btn btn-gradient big-btn" href="#">get a quote</a>
             </div>
             <div class="col-12 col-lg-6 text-center">
                 <div class="divider-35 hidden-above-lg"></div>
@@ -217,7 +206,7 @@
 
 <section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center container-px-0">
     <div class="cover-image s-cover-left">
-        <img src="/images/services/service1.jpg" alt="01">
+        <img src="/images/services/escrow.jpeg" alt="01">
     </div>
     <div class="container-fluid">
         <div class="row">
@@ -228,20 +217,16 @@
                 <div class="content-center">
                     <h2 class="special-heading numeric text-sm-left text-center">
                         <span class="text-capitalize">
-                            Chemical Industry
+                            Escrow Service
                         </span>
                     </h2>
                     <div class="divider-45 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
-                    <p>
-                        Cillum doloreu fugiat nulla pariatur excepteur si occaecat cupdatat non proident sunt culpaq officia deserunt mollt animest laborum sed perspiciatis unde omnis iste natus errosit voluptatem accuantium doloremque laudantium totam.
-                    </p>
                     <div class="divider-45 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
                     <ul class="list-styled">
-                        <li>Laudantium, totam rem aperiam</li>
-                        <li>Eaque ipsa quae ab illo inventore veritatis</li>
-                        <li>Quasi architecto beatae</li>
+                        <li>Commodity Trading</li>
+                        <li>Energy Project Financing.</li>
                     </ul>
                     <div class="divider--10"></div>
                 </div>
@@ -252,7 +237,7 @@
 
 <section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center container-px-0">
     <div class="cover-image s-cover-right">
-        <img src="/images/services/service2.jpg" alt="01">
+        <img src="/images/services/Advisory.jpeg" alt="01">
     </div>
 
     <div class="container-fluid">
@@ -262,34 +247,20 @@
                 <div class="content-center">
                     <h2 class="special-heading numeric text-sm-left text-center">
                         <span class="text-capitalize">
-                            Saving Technologies
+                            Advisory
                         </span>
                     </h2>
                     <div class="divider-45 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
-                    <p>
-                        Rem aperiam, eaque ipsa qillo inventore veritatis etquasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur magni dolores eos.
-                    </p>
                     <div class="divider-45 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
-                    <div class="shortcode-widget-area">
-                        <div class="widget widget_mailchimp">
-                            <p>
-                                Subscribe to Our Newsletter:
-                            </p>
-
-                            <form class="signup" action="/">
-                                <label for="mailchimp_email88">
-                                    <span class="screen-reader-text">Subscribe:</span>
-                                </label>
-                                <input id="mailchimp_email88" name="email" type="email" class="form-control mailchimp_email has-placeholder" placeholder="Email">
-                                <button type="submit" class="search-submit">
-                                    <span class="screen-reader-text">Subscribe</span>
-                                </button>
-                                <div class="response"></div>
-                            </form>
-                        </div>
-                    </div>
+                    <ul class="list-styled">
+                        <li>Project Management.</li>
+                        <li>Renewable Development.</li>
+                        <li>Renewable Consultancy.</li>
+                        <li>Business Advisory.</li>
+                    </ul>
+                    <div class="divider--10"></div>
                 </div>
             </div>
             <div class="col-xs-12 col-12 col-lg-6">
@@ -302,8 +273,8 @@
 
 <section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center container-px-0">
     <div class="cover-image s-cover-left">
-        <a href="/images/services/service3.jpg" class="photoswipe-link side-video" data-width="800" data-height="800" data-iframe="https://www.youtube.com/embed/GhthHC0s38A"></a>
-        <img src="/images/services/service3.jpg" alt="01">
+        {{-- <a href="/images/services/service3.jpg" class="photoswipe-link side-video" data-width="800" data-height="800" data-iframe="https://www.youtube.com/embed/GhthHC0s38A"></a> --}}
+        <img src="/images/services/commodity.webp" alt="01">
     </div>
     <div class="container-fluid">
         <div class="row">
@@ -314,30 +285,29 @@
                 <div class="content-center">
                     <h2 class="special-heading numeric text-sm-left text-center">
                         <span class="text-capitalize">
-                            Military Industry
+                            Commodity trading
                         </span>
                     </h2>
                     <div class="divider-45 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
-                    <p>
-                        Qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam. Watch our presentation:
-                    </p>
-                    <div class="divider-50 hidden-below-lg"></div>
-                    <div class="divider-30 hidden-above-lg"></div>
-                    <div id="comingsoon-countdown"></div>
+                    <ul class="list-styled">
+                        <li>Renewable energy.</li>
+                        <li>Oil and Gas.</li>
+                    </ul>
+                    <div class="divider--10"></div>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="ds s-overlay portfolio-section  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-center">
+<section class="ds s-overlay portfolio-section  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-center" id="#clients">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <h2 class="special-heading text-center">
                     <span class="text-capitalize">
-                        Our Projects
+                        Our clients
                     </span>
                 </h2>
                 <div class="divider-50 hidden-below-lg"></div>
@@ -480,12 +450,12 @@
 
                 </div>
                 <div class="mt--30"></div>
-                <div class="row">
+                {{-- <div class="row">
                     <div class="col-lg-12">
                         <div class="divider-60"></div>
                         <a class="btn btn-maincolor2 big-btn" href="gallery-image.html">All projects</a>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>
@@ -494,89 +464,14 @@
 <section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center c-gutter-60">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-lg-6">
-                <h2 class="special-heading text-sm-left text-center">
-                    <span class="text-capitalize">
-                        FAQ & Information
-                    </span>
-                </h2>
-                <div class="divider-50 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-                <div id="accordion01" role="tablist">
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse01_header">
-                            <h5>
-                                <a data-toggle="collapse" href="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                    Get to know us
-                                </a>
-                            </h5>
-                        </div>
-
-                        <div id="collapse01" class="collapse show" role="tabpanel" aria-labelledby="collapse01_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse02_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                    Get Informed
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse03_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                    Get Help
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse03" class="collapse" role="tabpanel" aria-labelledby="collapse03_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse04_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                    Contact Us
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse09_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                    Other Questions
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse09" class="collapse" role="tabpanel" aria-labelledby="collapse09_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-lg-6">
+            <h2 class="special-heading text-sm text-center">
+                <span class="text-capitalize">
+                    Our partners
+                </span>
+            </h2>
+            <br>
+            <br>
+            <div class="col-12">
                 <div class="divider-30 hidden-above-lg"></div>
                 <div class="row isotope-wrapper masonry-layout images-grid c-mb-30 c-gutter-30">
                     <div class="col-lg-4  col-sm-6  ">
@@ -649,7 +544,7 @@
     </div>
 </section>
 
-<section id="team" class="ls ms s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60">
+<section id="team" class="ls ms s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60" style="height: 50vh">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -663,7 +558,7 @@
                 <div class="fw-divider-space divider-25"></div>
                 <p class="special-heading text-center">
                     <span>
-                        Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.
+                        Meet the minds behind our success.
                     </span>
                 </p>
                 <div class="divider-35 hidden-below-lg"></div>
@@ -672,7 +567,7 @@
 
                     <div class="vertical-item text-center">
                         <div class="item-media">
-                            <img src="/images/team/01.png" alt="team">
+                            {{-- <img src="/images/team/01.png" alt="team"> --}}
                             <div class="media-links">
                                 <span class="social-icons">
                                     <a href="#" class="fab fa-facebook-f" title="facebook"></a>
@@ -685,10 +580,10 @@
                         <div class="item-content">
 
                             <h6>
-                                <a href="team-single.html">Roger J. Watkins</a>
+                                <a href="#">AHMAD SHAQRAN</a>
                             </h6>
                             <p class="small-text">
-                                President
+                                Owner
                             </p>
                         </div>
                     </div>
@@ -696,7 +591,7 @@
 
                     <div class="vertical-item text-center">
                         <div class="item-media">
-                            <img src="/images/team/02.png" alt="team">
+                            {{-- <img src="/images/team/02.png" alt="team"> --}}
                             <div class="media-links">
                                 <span class="social-icons">
                                     <a href="#" class="fab fa-facebook-f" title="facebook"></a>
@@ -708,10 +603,10 @@
                         <div class="item-content">
 
                             <h6>
-                                <a href="team-single.html">Anita J. Harker</a>
+                                <a href="#">YOUSEF ALNUAIMI</a>
                             </h6>
                             <p class="small-text">
-                                CEO
+                                Owner
                             </p>
                         </div>
                     </div>
@@ -719,7 +614,7 @@
 
                     <div class="vertical-item text-center">
                         <div class="item-media">
-                            <img src="/images/team/03.png" alt="team">
+                            {{-- <img src="/images/team/03.png" alt="team"> --}}
                             <div class="media-links">
                                 <span class="social-icons">
                                     <a href="#" class="fab fa-facebook-f" title="facebook"></a>
@@ -732,10 +627,10 @@
                         <div class="item-content">
 
                             <h6>
-                                <a href="team-single.html">Harold K. Cave</a>
+                                <a href="#">Marwan Mohammad</a>
                             </h6>
                             <p class="small-text">
-                                Coordinator
+                                Manager
                             </p>
                         </div>
                     </div>
@@ -851,14 +746,16 @@ We understand the core values and responsibilities of a commodity supplier and t
             <div class="col-lg-6">
                 <h2 class="special-heading">
                     <span class="text-capitalize">
-                        We Spread<br> Around the World
+                        ABOUT US
                     </span>
                 </h2>
                 <div class="divider-45 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
                 <p class="special-heading">
                     <span>
-                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        Opti Energy is based in the business-centric locale of Dubai, United Arab Emirates. We offer a diverse suite of services across the energy
+spectrum, from renewable energy solutions to crude oil trading.
+Leveraging our team's extensive expertise, we are committed to fostering sustainable and efficient practices in the energy sector.
                     </span>
                 </p>
                 <div class="divider-45 hidden-below-lg"></div>

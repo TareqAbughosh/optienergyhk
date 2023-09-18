@@ -662,9 +662,6 @@
 							</div>
 							<div class="col-xl-3 col-md-7 col-12  d-flex justify-content-md-end">
 								<ul class="top-includes">
-									<li class="metaphone">
-										<a href="#">800 123 4567</a>
-									</li>
 									<li class="special-menu">
 										<span class="toggle_menu toggle_menu_side header-slide toggle_menu_side_special"><span></span></span>
 									</li>
@@ -763,7 +760,7 @@
 										<div class="icon-styled icon-top  bordered round fs-16">
 											<i class="fas fa-phone"></i>
 										</div>
-										<p>800 123 4567</p>
+										<p>+971 (42) 678443</p>
 									</li>
 									<li class="icon-inline">
 										<div class="icon-styled icon-top bordered round  fs-16">
@@ -771,18 +768,17 @@
 
 
 										</div>
-										<p><a href="#">info@optienergy.com</a></p>
+										<p><a href="#">Info@OptiEnergies.com</a></p>
 									</li>
 									<li class="icon-inline">
 										<div class="icon-styled icon-top bordered round  fs-16">
 											<i class="fas fa-map-marker-alt"></i>
 										</div>
 										<p>
-											2469 Hoffman Avenue<br>
-											New York, NY 10016
+											AG-PF-356, JLT, DXB, UAE.
 										</p>
 									</li>
-									<li class="icon-inline">
+									{{-- <li class="icon-inline">
 										<div class="icon-styled icon-top bordered round  fs-16">
 											<i class="fas fa-clock"></i>
 										</div>
@@ -791,7 +787,7 @@
 											Sat: 10am - 4pm<br>
 											Sun: of
 										</p>
-									</li>
+									</li> --}}
 								</ul>
 							</div>
 							<div class="fw-divider-space divider-xl-160 divider-lg-130 divider-md-60 divider-30"></div>

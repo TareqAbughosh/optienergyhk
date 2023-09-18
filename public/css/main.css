@@ -21802,7 +21802,7 @@ filters
 }
 
 .step-gorizontal .step .step-number h3 {
-	font-size: 100px;
+	font-size: 60px;
 	font-weight: 300;
 	line-height: 0.7;
 	margin-bottom: 0;
@@ -28251,7 +28251,7 @@ body.active-side-header.slide-right .page_header_side {
 
 @media (min-width: 300px) {
 	.page_slider .intro_featured_word {
-		font-size: 100px;
+		font-size: 60px;
 		font-weight: 300;
 		letter-spacing: -1px;
 		line-height: 1;
@@ -28261,7 +28261,7 @@ body.active-side-header.slide-right .page_header_side {
 
 @media (min-width: 300px) and (max-width: 1450px) {
 	.page_slider .intro_featured_word {
-		font-size: 60px;
+		font-size: 30px;
 	}
 }
 

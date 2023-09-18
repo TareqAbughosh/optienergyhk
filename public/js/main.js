@@ -1709,21 +1709,21 @@
         ///MAP///
         /////////
 
-        var offices = [
-            {latLng: [28.538336,-81.379234], name: "Orlando"},
-            {latLng: [44.316131,-72.751309], name: "Stowe"},
-            {latLng: [37.235251,-85.738603], name: "Hardyville"},
-            {latLng: [44.953972,-93.284197], name: "1163 Hayhurst Lane Westland, MI 48185"},
-            {latLng: [39.015490,-96.611992], name: "Junction City"},
-            {latLng: [34.455978,-106.718009], name: "Las Nutrias"},
-            {latLng: [34.986554,-119.826751], name: "New Cuyama"},
-            {latLng: [42.536149,-123.553618], name: "Grants Pass"},
-            {latLng: [46.390630,-112.309402], name: "Helena"},
-        ];
+        // var offices = [
+        //     {latLng: [28.538336,-81.379234], name: "Orlando"},
+        //     {latLng: [44.316131,-72.751309], name: "Stowe"},
+        //     {latLng: [37.235251,-85.738603], name: "Hardyville"},
+        //     {latLng: [44.953972,-93.284197], name: "1163 Hayhurst Lane Westland, MI 48185"},
+        //     {latLng: [39.015490,-96.611992], name: "Junction City"},
+        //     {latLng: [34.455978,-106.718009], name: "Las Nutrias"},
+        //     {latLng: [34.986554,-119.826751], name: "New Cuyama"},
+        //     {latLng: [42.536149,-123.553618], name: "Grants Pass"},
+        //     {latLng: [46.390630,-112.309402], name: "Helena"},
+        // ];
 
         if ( document.getElementById('map-vector') ) {
             $('#map-vector').vectorMap({
-                map: 'us_lcc',
+                map: 'world_merc',
                 backgroundColor: 'transparent',
                 zoomOnScroll: false,
                 regionStyle: {
@@ -1749,7 +1749,7 @@
                         r: 6
                     }
                 },
-                markers: offices,
+                // markers: offices,
                 onRegionTipShow: function (e, label, code) {
                     e.preventDefault();
                 }
