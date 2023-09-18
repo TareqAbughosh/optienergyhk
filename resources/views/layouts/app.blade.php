@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Nafta</title>
+	<title>Opti Energy</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -141,98 +141,6 @@
 					<div class="scrollbar-macosx">
 						<div class="side_header_inner">
 							<p class="text-right mb-0 close-wrapper"><a href="javascript:void(0)">×</a></p>
-
-							<div class="widget widget_recent_posts">
-
-								<h3 class="widget-title">Our news</h3>
-								<ul class="list-unstyled">
-									<li class="media">
-										<article class="vertical-item  post type-post status-publish format-standard has-post-thumbnail">
-											<div class="item-content">
-												<div class="entry-header">
-													<div class="entry-meta">
-														<div class="byline">
-															<span class="date">
-																<a href="blog-@@type.html" rel="bookmark">
-																	<time class="published entry-date" datetime="2019-04-09T12:23:09+00:00">20.03.2019</time>
-																</a>
-															</span>
-															<span class="author vcard">
-																<a class="url fn n" href="blog-@@type.html" rel="author"><span>by</span> Admin</a>
-															</span>
-														</div>
-													</div>
-													<h4 class="entry-title">
-														<a href="blog-single-@@type.html" rel="bookmark">
-															Adipisicing elit sed do eiusmod
-														</a>
-													</h4>
-
-													<!-- .entry-meta -->
-												</div>
-												<!-- .entry-header -->
-											</div><!-- .item-content -->
-										</article>
-									</li>
-									<li class="media">
-										<article class="vertical-item  post type-post status-publish format-standard has-post-thumbnail">
-											<div class="item-content">
-												<div class="entry-header">
-													<div class="entry-meta">
-														<div class="byline">
-															<span class="date">
-																<a href="blog-@@type.html" rel="bookmark">
-																	<time class="published entry-date" datetime="2019-04-09T12:23:09+00:00">20.03.2019</time>
-																</a>
-															</span>
-															<span class="author vcard">
-																<a class="url fn n" href="blog-@@type.html" rel="author"><span>by</span> Admin</a>
-															</span>
-														</div>
-													</div>
-													<h4 class="entry-title">
-														<a href="blog-single-@@type.html" rel="bookmark">
-															Adipisicing elit sed do eiusmod
-														</a>
-													</h4>
-
-													<!-- .entry-meta -->
-												</div>
-												<!-- .entry-header -->
-											</div><!-- .item-content -->
-										</article>
-									</li>
-									<li class="media">
-										<article class="vertical-item  post type-post status-publish format-standard has-post-thumbnail">
-											<div class="item-content">
-												<div class="entry-header">
-													<div class="entry-meta">
-														<div class="byline">
-															<span class="date">
-																<a href="blog-@@type.html" rel="bookmark">
-																	<time class="published entry-date" datetime="2019-04-09T12:23:09+00:00">20.03.2019</time>
-																</a>
-															</span>
-															<span class="author vcard">
-																<a class="url fn n" href="blog-@@type.html" rel="author"><span>by</span> Admin</a>
-															</span>
-														</div>
-													</div>
-													<h4 class="entry-title">
-														<a href="blog-single-@@type.html" rel="bookmark">
-															Adipisicing elit sed do eiusmod
-														</a>
-													</h4>
-
-													<!-- .entry-meta -->
-												</div>
-												<!-- .entry-header -->
-											</div><!-- .item-content -->
-										</article>
-									</li>
-
-								</ul>
-							</div>
 							<div class="widget widget_about">
 								<h3 class="widget-title">About</h3>
 								<p>
@@ -270,9 +178,9 @@
 						<div class="row d-flex align-items-center justify-content-center">
 							<div class="col-xl-3 col-md-4 col-12 text-center">
 								<a href="./" class="logo">
-									<img src="/images/logo.png" alt="">
+									<img src="/images/logo2.png" alt="">
 									<span class="d-flex flex-column">
-										<span class="logo-text color-darkgrey">nafta</span>
+										<span class="logo-text color-darkgrey">Opti Energy</span>
 										<span class="logo-subtext">oil & gas industry</span>
 									</span>
 								</a>
@@ -783,9 +691,9 @@
 						<div class="col-lg-4 col-md-6 order-1 order-lg-1  animate" data-animation="fadeInUp">
 							<div class="fw-divider-space divider-xl-160 divider-lg-130 divider-md-90 divider-60"></div>
 							<a href="./" class="logo">
-								<img src="/images/logo.png" alt="">
+								<img src="/images/logo2.png" alt="">
 								<span class="d-flex flex-column">
-									<span class="logo-text color-darkgrey">nafta</span>
+									<span class="logo-text color-darkgrey">Opti Energy</span>
 									<span class="logo-subtext">oil &amp; gas industry</span>
 								</span>
 							</a>
@@ -863,7 +771,7 @@
 
 
 										</div>
-										<p><a href="#">nafta@example.com</a></p>
+										<p><a href="#">info@optienergy.com</a></p>
 									</li>
 									<li class="icon-inline">
 										<div class="icon-styled icon-top bordered round  fs-16">

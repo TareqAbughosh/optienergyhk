@@ -91,11 +91,6 @@
                             Thermal Power
                         </h5>
                     </a>
-
-                    <p>Lorem ipsum dolor amet consectetur</p>
-                    <a class="btn btn-outline-darkgrey" href="service-single.html">
-                        <i class="fas fa-chevron-right"></i>
-                    </a>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4 col-xl-2   ">
@@ -109,11 +104,6 @@
                         <h5>
                             Oil Platform
                         </h5>
-                    </a>
-
-                    <p>Adipisicing elit, sed do eiusmod tempor</p>
-                    <a class="btn btn-outline-darkgrey" href="service-single.html">
-                        <i class="fas fa-chevron-right"></i>
                     </a>
                 </div>
             </div>
@@ -129,11 +119,6 @@
                             Gas Flaring
                         </h5>
                     </a>
-
-                    <p>Incididunt labore dolore magna aliqua</p>
-                    <a class="btn btn-outline-darkgrey" href="service-single.html">
-                        <i class="fas fa-chevron-right"></i>
-                    </a>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4 col-xl-2   ">
@@ -147,11 +132,6 @@
                         <h5>
                             Oil Pump
                         </h5>
-                    </a>
-
-                    <p>Utenim adminim veniam quis nostrud </p>
-                    <a class="btn btn-outline-darkgrey" href="service-single.html">
-                        <i class="fas fa-chevron-right"></i>
                     </a>
                 </div>
             </div>
@@ -167,11 +147,6 @@
                             Oil Refinaery
                         </h5>
                     </a>
-
-                    <p>Ullamco laboris nisi ut aliquip veniam exea</p>
-                    <a class="btn btn-outline-darkgrey" href="service-single.html">
-                        <i class="fas fa-chevron-right"></i>
-                    </a>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4 col-xl-2   ">
@@ -185,11 +160,6 @@
                         <h5>
                             Factory
                         </h5>
-                    </a>
-
-                    <p>Commodo conquat duis aute irure dolor</p>
-                    <a class="btn btn-outline-darkgrey" href="service-single.html">
-                        <i class="fas fa-chevron-right"></i>
                     </a>
                 </div>
             </div>
@@ -213,11 +183,20 @@
                 <div class="divider-35 hidden-above-lg"></div>
                 <div class="divider--5"></div>
                 <p class="excerpt">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
+                    Interested in working with us?
+                        LET'S TALK AND GET STARTED
                 </p>
-                <p>
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum doloreu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                    sunt in culpa qui officia deserunt mollit animest laborum sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.
+                <p>       
+                    MAIL TO OUR HR DEPARTMENT
+                    info@legendbrokers.com
+                    <br>
+                    OUR CONTACT NUMBER
+                    +1(862)777-1112
+                    <br>
+                    & What's you will get :
+                    Excellent Customer Support
+                    Project Consulting by Experts
+                    On-Time Project Delivery
                 </p>
             </div>
             <div class="col-12 col-lg-3 text-sm-left text-center">
@@ -843,12 +822,24 @@
             <div class="col-12">
                 <h2 class="special-heading text-center">
                     <span class="text-capitalize big">
-                        All for Good. Good for All.
+                        Crude Oil
                     </span>
                 </h2>
                 <div class="divider-45 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
-                <a class="btn btn-darkgrey big-btn" href="blog-right.html">go to blog</a>
+                <p class="excerpt">
+                    Acquire Premium Quality Marine Fuel Oil and
+                    gasoil from One of the Leading Oil Trading Companies in UAE
+                </p>
+                <p style="background: rgba(128, 128, 128, 0.5);">
+                    The ever-increasing demand for marine fuel oil and gasoil in the shipping world has quickly become avid and insatiable. In 2017, Legend Brokers limited was established to provide complete and top-tier solutions and products to meet this growing strain and bridge the gap between the supply and demand of high-quality bunkers in the leading mega industries of the world.
+
+
+As a global marine fuel and gasoil trading company rooted in one of the leading maritime hubs in the world, Legend Brokers limited has built an impeccable reputation for providing efficient, powerful, and environment-friendly bunkers to all the major ports. We invest our technical and domestic expertise, years’ worth of experience, and our comprehensive knowledge in the field to deliver the top high-value bunkers at the best price across world.
+
+
+We understand the core values and responsibilities of a commodity supplier and therefore we do not make any compromises on quality, deliverance, and customer satisfaction.
+                </p>
             </div>
         </div>
     </div>
@@ -932,7 +923,7 @@
     </div>
 </section>
 
-<section class="ls ms s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-280 s-pb-lg-250 s-pb-md-90 s-pb-60">
+{{-- <section class="ls ms s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-280 s-pb-lg-250 s-pb-md-90 s-pb-60">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -1069,5 +1060,5 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 @endsection
