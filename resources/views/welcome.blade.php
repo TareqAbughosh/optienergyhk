@@ -66,7 +66,7 @@
     </div> <!-- eof flexslider -->
 </section>
 
-<section class="ds text-sm-left text-center container-px-0 c-gutter-0">
+{{-- <section class="ds text-sm-left text-center container-px-0 c-gutter-0">
     <div class="container-fluid">
         <div class="row service-v2">
             <div class="col-sm-6 col-md-4 col-xl-2   ">
@@ -155,7 +155,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 
 <section class="ls main-testimonial s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60">
     <div class="container">
@@ -177,34 +177,24 @@
                 </p>
                 <p>       
                     MAIL TO OUR HR DEPARTMENT
-                    info@legendbrokers.com
+                    Info@OptiEnergies.com
                     <br>
                     OUR CONTACT NUMBER
-                    +1(862)777-1112
+                    +971 (58) 964 6615
                     <br>
                     & What's you will get :
                     Excellent Customer Support
                     Project Consulting by Experts
                     On-Time Project Delivery
+                    <br>
+                    Address(UAE): HQ office AG-PF-356, JLT, DXB, UAE. And we also have operational offices in Turkey, contact us for more info!
                 </p>
-            </div>
-            <div class="col-12 col-lg-3 text-sm-left text-center">
-                <div class="divider-35 hidden-above-lg"></div>
-                <div class="signature">
-                    <div class="signature-image">
-                        <img src="/images/team/testimonial2.jpg" alt="">
-                    </div>
-                    <div class="signature-content">
-                        <span>Diana T. Davis</span>
-                        <img src="/images/signature.png" alt="">
-                    </div>
-                </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center container-px-0">
+<section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center container-px-0" id="services">
     <div class="cover-image s-cover-left">
         <img src="/images/services/escrow.jpeg" alt="01">
     </div>
@@ -225,8 +215,8 @@
                     <div class="divider-45 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
                     <ul class="list-styled">
-                        <li>Commodity Trading</li>
-                        <li>Energy Project Financing.</li>
+                        <li>Commodity Transactions</li>
+                        <li>Energy Finance transactions.</li>
                     </ul>
                     <div class="divider--10"></div>
                 </div>
@@ -255,9 +245,8 @@
                     <div class="divider-45 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
                     <ul class="list-styled">
-                        <li>Project Management.</li>
-                        <li>Renewable Development.</li>
-                        <li>Renewable Consultancy.</li>
+                        <li>Renewable Project Development..</li>
+                        <li>Energy Consultancy.</li>
                         <li>Business Advisory.</li>
                     </ul>
                     <div class="divider--10"></div>
@@ -285,7 +274,7 @@
                 <div class="content-center">
                     <h2 class="special-heading numeric text-sm-left text-center">
                         <span class="text-capitalize">
-                            Commodity trading
+                            Trading
                         </span>
                     </h2>
                     <div class="divider-45 hidden-below-lg"></div>
@@ -301,7 +290,7 @@
     </div>
 </section>
 
-<section class="ds s-overlay portfolio-section  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-center" id="#clients">
+<section class="ds s-overlay portfolio-section  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-center" id="clients">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -312,156 +301,48 @@
                 </h2>
                 <div class="divider-50 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
-                <div class="row justify-content-center">
-                    <div class="col-md-10 col-xl-8">
-                        <div class="filters gallery-filters">
-                            <a href="#" data-filter="*" class="active selected">show All</a>
-                            <a href="#" data-filter=".corporate">Gas</a>
-                            <a href="#" data-filter=".business">oil</a>
-                            <a href="#" data-filter=".entertainment">Industry</a>
-                            <a href="#" data-filter=".innovations">eco</a>
-                            <a href="#" data-filter=".news">Factory</a>
+                <div class="row">
+                    <!-- Card 1 -->
+                    <div class="col-md-4">
+                        <div class="card mb-4">
+                            <a href="https://www.rofspc.com/" target="_blank">
+                            <img src="/images/gallery/full/rof_logo2.png" class="card-img-top" alt="Client 1">
+                            </a>
+                        </div>
+                    </div>
+        
+                    <!-- Card 2 -->
+                    <div class="col-md-4">
+                        <div class="card mb-4" style="background-image: linear-gradient(rgba(10, 27, 43, .47), rgba(10, 27, 43, .98) 70%, #0a1b2b)">
+                            <a href="https://www.renovo-energy.com/" target="_blank">
+                            <img src="/images/gallery/full/renovo.svg" class="card-img-top" alt="Client 2">
+                            </a>
+                        </div>
+                    </div>
 
+                    <!-- Card 3 -->
+                    <div class="col-md-4">
+                        <div class="card mb-4">
+                            <a href="https://jarleneinvestments.com/" target="_blank">
+                            <img src="/images/gallery/full/jarlen.png" class="card-img-top" alt="Client 3">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card mb-4">
+                            <a href="https://recom-tech.com/" target="_blank">
+                            <img src="/images/gallery/full/RECOM_LOGO-1024x277.png" class="card-img-top" alt="Client 3">
+                            </a>
                         </div>
                     </div>
                 </div>
-                <div class="row isotope-wrapper portfolio masonry-layout c-mb-30" data-filters=".gallery-filters">
-
-                    <div class="col-xl-4 col-sm-6 business news">
-
-                        <div class="vertical-item item-gallery content-absolute text-center ds">
-                            <div class="item-media">
-                                <img src="/images/gallery/full/01.jpg" alt="img">
-
-                            </div>
-                            <div class="item-content">
-                                <div class="links-wrap">
-                                    <a class="link-zoom photoswipe-link" title="" href="/images/gallery/full/01.jpg"></a>
-                                    <a class="link-anchor" title="" href="gallery-single.html"></a>
-                                </div>
-                                <h6>
-                                    <a href="gallery-single.html">Lorem ipsum dolor sit</a>
-                                </h6>
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="col-xl-4 col-sm-6 innovations corporate">
-                        <div class="vertical-item item-gallery content-absolute text-center ds">
-                            <div class="item-media">
-                                <img src="/images/gallery/full/02.jpg" alt="img">
-                            </div>
-                            <div class="item-content ">
-                                <div class="links-wrap">
-                                    <a class="link-zoom photoswipe-link" title="" href="/images/gallery/full/02.jpg"></a>
-                                    <a class="link-anchor" title="" href="gallery-single.html"></a>
-                                </div>
-                                <h6>
-                                    <a href="gallery-single.html">Amet consetetur sadipscing</a>
-                                </h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4 col-sm-6 entertainment news innovations">
-                        <div class="vertical-item item-gallery content-absolute text-center ds">
-                            <div class="item-media">
-                                <img src="/images/gallery/full/03.jpg" alt="img">
-
-                            </div>
-                            <div class="item-content ">
-                                <div class="links-wrap">
-                                    <a class="link-zoom photoswipe-link" title="" href="/images/gallery/full/03.jpg"></a>
-                                    <a class="link-anchor" title="" href="gallery-single.html"></a>
-                                </div>
-
-                                <h6>
-                                    <a href="gallery-single.html">Elitr sed diam nonumy</a>
-                                </h6>
-
-
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4 col-sm-6 business entertainment">
-                        <div class="vertical-item item-gallery content-absolute text-center ds">
-                            <div class="item-media">
-                                <img src="/images/gallery/full/04.jpg" alt="img">
-
-                            </div>
-                            <div class="item-content ">
-                                <div class="links-wrap">
-                                    <a class="link-zoom photoswipe-link" title="" href="/images/gallery/full/04.jpg"></a>
-                                    <a class="link-anchor" title="" href="gallery-single.html"></a>
-                                </div>
-
-                                <h6>
-                                    <a href="gallery-single.html">Tempor invidunt ut</a>
-                                </h6>
-
-
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4 col-sm-6 innovations corporate">
-                        <div class="vertical-item item-gallery content-absolute text-center ds">
-                            <div class="item-media">
-                                <img src="/images/gallery/full/05.jpg" alt="img">
-                            </div>
-                            <div class="item-content">
-                                <div class="links-wrap">
-                                    <a class="link-zoom photoswipe-link" title="" href="/images/gallery/full/05.jpg"></a>
-                                    <a class="link-anchor" title="" href="gallery-single.html"></a>
-                                </div>
-
-                                <h6>
-                                    <a href="gallery-single.html">Labore et dolore magna</a>
-                                </h6>
-
-
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4 col-sm-6 entertainment news corporate">
-                        <div class="vertical-item item-gallery content-absolute text-center ds">
-                            <div class="item-media">
-                                <img src="/images/gallery/full/06.jpg" alt="img">
-                            </div>
-                            <div class="item-content">
-                                <div class="links-wrap">
-                                    <a class="link-zoom photoswipe-link" title="" href="/images/gallery/full/06.jpg"></a>
-                                    <a class="link-anchor" title="" href="gallery-single.html"></a>
-                                </div>
-
-                                <h6>
-                                    <a href="gallery-single.html">Aliquyam erat sed diam</a>
-                                </h6>
-
-
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-                <div class="mt--30"></div>
-                {{-- <div class="row">
-                    <div class="col-lg-12">
-                        <div class="divider-60"></div>
-                        <a class="btn btn-maincolor2 big-btn" href="gallery-image.html">All projects</a>
-                    </div>
-                </div> --}}
+            </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center c-gutter-60">
+<section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center c-gutter-60" id="partners">
     <div class="container">
         <div class="row">
             <h2 class="special-heading text-sm text-center">
@@ -475,65 +356,37 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <div class="row isotope-wrapper masonry-layout images-grid c-mb-30 c-gutter-30">
                     <div class="col-lg-4  col-sm-6  ">
-                        <a href="#">
+                        <a href="https://www.lubrico.com.tr/en/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/01.png" alt="">
+                                <img src="/images/partners/lubrico.svg" alt="">
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6  ">
-                        <a href="#">
+                        <a href="https://www.legendbrokers.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/02.png" alt="">
+                                <img src="/images/partners/legendbrokers.png" alt="">
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6  ">
-                        <a href="#">
+                        <a href="https://yavuzkiymetlimadenler.com" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/03.png" alt="">
+                                <img src="/images/partners/Yavuz.png" alt="">
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6  ">
-                        <a href="#">
+                        <a href="https://www.enrocks.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/04.png" alt="">
+                                <img src="/images/partners/enrocks.svg" alt="">
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6  ">
-                        <a href="#">
+                        <a href="https://www.hadefpartners.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/05.png" alt="">
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-sm-6  ">
-                        <a href="#">
-                            <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/06.png" alt="">
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-sm-6  ">
-                        <a href="#">
-                            <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/07.png" alt="">
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-sm-6  ">
-                        <a href="#">
-                            <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/08.png" alt="">
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-sm-6  ">
-                        <a href="#">
-                            <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/09.png" alt="">
+                                <img src="/images/partners/hadef-and-partners.png" alt="">
                             </div>
                         </a>
                     </div>
@@ -563,7 +416,7 @@
                 </p>
                 <div class="divider-35 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
-                <div class="owl-carousel team-carousel" data-center="false" data-nav="false" data-margin="30" data-loop="true" data-responsive-lg="3" data-responsive-md="3" data-responsive-sm="2" data-responsive-xs="1">
+                <div class="owl-carousel team-carousel container-fluid d-flex justify-content-center align-items-center">
 
                     <div class="vertical-item text-center">
                         <div class="item-media">
@@ -580,10 +433,10 @@
                         <div class="item-content">
 
                             <h6>
-                                <a href="#">AHMAD SHAQRAN</a>
+                                <a href="#">Management team in</a>
                             </h6>
                             <p class="small-text">
-                                Owner
+                                Dubai
                             </p>
                         </div>
                     </div>
@@ -591,7 +444,6 @@
 
                     <div class="vertical-item text-center">
                         <div class="item-media">
-                            {{-- <img src="/images/team/02.png" alt="team"> --}}
                             <div class="media-links">
                                 <span class="social-icons">
                                     <a href="#" class="fab fa-facebook-f" title="facebook"></a>
@@ -603,103 +455,10 @@
                         <div class="item-content">
 
                             <h6>
-                                <a href="#">YOUSEF ALNUAIMI</a>
+                                <a href="team-single.html">Operations team in</a>
                             </h6>
                             <p class="small-text">
-                                Owner
-                            </p>
-                        </div>
-                    </div>
-
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            {{-- <img src="/images/team/03.png" alt="team"> --}}
-                            <div class="media-links">
-                                <span class="social-icons">
-                                    <a href="#" class="fab fa-facebook-f" title="facebook"></a>
-                                    <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
-                                    <a href="#" class="fab fa-instagram" title="instagram"></a>
-                                </span>
-                            </div>
-
-                        </div>
-                        <div class="item-content">
-
-                            <h6>
-                                <a href="#">Marwan Mohammad</a>
-                            </h6>
-                            <p class="small-text">
-                                Manager
-                            </p>
-                        </div>
-                    </div>
-
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="/images/team/04.png" alt="team">
-                            <div class="media-links">
-                                <span class="social-icons">
-                                    <a href="#" class="fab fa-facebook-f" title="facebook"></a>
-                                    <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
-                                    <a href="#" class="fab fa-instagram" title="instagram"></a>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="item-content">
-
-                            <h6>
-                                <a href="team-single.html">Alex M. Richardson</a>
-                            </h6>
-                            <p class="small-text">
-                                CEO
-                            </p>
-                        </div>
-                    </div>
-
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="/images/team/05.png" alt="team">
-                            <div class="media-links">
-                                <span class="social-icons">
-                                    <a href="#" class="fab fa-facebook-f" title="facebook"></a>
-                                    <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
-                                    <a href="#" class="fab fa-instagram" title="instagram"></a>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="item-content">
-
-                            <h6>
-                                <a href="team-single.html">Tajana N. Emmett</a>
-                            </h6>
-                            <p class="small-text">
-                                Accountant
-                            </p>
-                        </div>
-                    </div>
-
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="/images/team/06.png" alt="team">
-                            <div class="media-links">
-                                <span class="social-icons">
-                                    <a href="#" class="fab fa-facebook-f" title="facebook"></a>
-                                    <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
-                                    <a href="#" class="fab fa-instagram" title="instagram"></a>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="item-content">
-
-                            <h6>
-                                <a href="team-single.html">Justine E. Inger</a>
-                            </h6>
-                            <p class="small-text">
-                                Manager
+                                Turkey
                             </p>
                         </div>
                     </div>
@@ -740,7 +499,7 @@ We understand the core values and responsibilities of a commodity supplier and t
     </div>
 </section>
 
-<section class="ls map-section s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-160 s-pb-lg-130 s-pb-md-90 s-pb-60">
+<section class="ls map-section s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-160 s-pb-lg-130 s-pb-md-90 s-pb-60" id="about_us">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -763,7 +522,7 @@ Leveraging our team's extensive expertise, we are committed to fostering sustain
                 <div class="d-flex flex-column flex-sm-row justify-content-between flex-wrap ">
                     <div class="simple-counter">
                         <h3 class="special-heading counter-wrap">
-                            <span class="counter color-main thin big" data-from="0" data-to="22" data-speed="1800">0</span>
+                            <span class="counter color-main thin big" data-from="0" data-to="10" data-speed="1800">0</span>
                         </h3>
                         <p class="special-heading bold color-darkgrey">
                             <span>
@@ -772,14 +531,14 @@ Leveraging our team's extensive expertise, we are committed to fostering sustain
                         </p>
                         <h6 class="special-heading text-capitalize">
                             <span>
-                                Experience
+                               Team Experience
                             </span>
                         </h6>
                     </div>
                     <div class="divider-30 hidden-above-sm"></div>
                     <div class="simple-counter">
                         <h3 class="special-heading counter-wrap">
-                            <span class="counter color-main thin big" data-from="0" data-to="65" data-speed="1800">0</span>
+                            <span class="counter color-main thin big" data-from="0" data-to="3" data-speed="1800">0</span>
                         </h3>
                         <p class="special-heading bold color-darkgrey">
                             <span>
@@ -795,8 +554,8 @@ Leveraging our team's extensive expertise, we are committed to fostering sustain
                     <div class="divider-30 hidden-above-sm"></div>
                     <div class="simple-counter">
                         <h3 class="special-heading counter-wrap">
-                            <span class="counter color-main thin big" data-from="0" data-to="15" data-speed="1800">0</span>
-                            <span class="counter-add thin color-main big">k</span>
+                            <span class="counter color-main thin big" data-from="0" data-to="30" data-speed="1800">0</span>
+                            <span class="counter-add thin color-main big">+</span>
                         </h3>
                         <p class="special-heading bold color-darkgrey">
                             <span>
