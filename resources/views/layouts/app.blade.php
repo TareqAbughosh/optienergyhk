@@ -24,6 +24,18 @@
 	<link rel="stylesheet" href="/css/icomoon.css">
 	<link rel="stylesheet" href="/css/main.css" class="color-switcher-link">
 	<link rel="stylesheet" href="/css/shop.css" class="color-switcher-link">
+	<style>
+        /* Custom CSS */
+        .smaller-container {
+            max-width: 80%; /* Adjust the maximum width as needed */
+            margin: 0 auto; /* Center the container horizontally */
+            text-align: left; /* Align text to the left */
+        }
+
+        .smaller-heading {
+            font-size: 24px; /* Adjust the font size as needed */
+        }
+    </style>
 	<script src="/js/vendor/modernizr-2.6.2.min.js"></script>
 
 	<!--[if lt IE 9]>
@@ -162,16 +174,13 @@
 								</form>
 							</div>
 							<div class="widget widget_social_icons">
-								<a href="#" class="fab fa-facebook-f rounded-icon bg-icon fs-16" title="facebook"></a>
-								<a href="#" class="fab fa-twitter rounded-icon bg-icon fs-16" title="telegram"></a>
 								<a href="#" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
-								<a href="#" class="fab fa-instagram rounded-icon bg-icon fs-16" title="instagram"></a>
 							</div>
 						</div>
 					</div>
 				</header>
 
-				<header class="page_header header-1 ds bg-transparent s-py-xl-20 s-py-10 ">
+				<header class="{{Route::current()->getName() == 'welcome' ? 'page_header header-1 ds bg-transparent s-py-xl-20 s-py-10' : 'page_header header-1 ds bg-transparent s-overlay s-py-10'}}">
 
 					<div class="container-fluid">
 
@@ -181,7 +190,7 @@
 									<img src="/images/logo.png" alt="">
 									<span class="d-flex flex-column">
 										<span class="logo-text color-darkgrey">Opti Energy</span>
-										<span class="logo-subtext">oil & gas industry</span>
+										<span class="logo-subtext"> New dimension in Energy Solutions.</span>
 									</span>
 								</a>
 							</div>
@@ -189,21 +198,6 @@
 								<!-- main nav start -->
 								<nav class="top-nav">
 									<ul class="nav sf-menu">
-
-
-										<li class="active">
-											<a href="index.html">Home</a>
-											<ul>
-												<li>
-													<a href="index.html">MultiPage</a>
-												</li>
-
-												<li>
-													<a href="index_singlepage.html">Single Page</a>
-												</li>
-
-											</ul>
-										</li>
 
 										<li>
 											<a href="#services">Services</a>
@@ -224,14 +218,14 @@
 										<!-- eof blog -->
 
 										<!-- shop -->
-										<li>
-											<a href="#team">Our team</a>
-										</li>
 										<!-- eof shop -->
 
 										<!-- contacts -->
 										<li>
 											<a href="#about_us">About us</a>
+										</li>
+										<li>
+											<a href="{{route('contact_us')}}">Contact us</a>
 										</li>
 										<!-- eof contacts -->
 									</ul>
@@ -256,89 +250,28 @@
             @yield('content')
 
 
-			<footer class="page_footer  text-center c-gutter-100 text-sm-left  ds">
+			<div id="footer"></div>
+
+
+			<footer class="page_footer text-center text-sm-left  ds  s-pt-55 s-pb-60 s-pt-md-85 s-pb-md-90 s-pt-lg-125 s-pb-lg-130 s-pt-xl-160 s-pb-xl-155 c-gutter-30 s-parallax c-mb-50 c-mb-lg-0">
 				<div class="container">
 					<div class="row justify-content-center">
 
-						<div class="col-lg-4 col-md-6 order-1 order-lg-1  animate" data-animation="fadeInUp">
-							<div class="fw-divider-space divider-xl-160 divider-lg-130 divider-md-90 divider-60"></div>
+						<div class="col-lg-4 col-md-6  animate" data-animation="fadeInUp">
 							<a href="./" class="logo">
-								<img src="/images/logo.png" alt="">
+								<img src="images/logo.png" alt="">
 								<span class="d-flex flex-column">
 									<span class="logo-text color-darkgrey">Opti Energy</span>
-									<span class="logo-subtext">oil &amp; gas industry</span>
+									<span class="logo-subtext"> New dimension in Energy Solutions.</span>
 								</span>
 							</a>
-							{{-- <p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elitsed eiusmod tempor incididunt ut labordolore magna aliqua eniminim
-							</p> --}}
-							<a href="#" class="fab fa-facebook-f rounded-icon bg-icon fs-16" title="facebook"></a>
-							<a href="#" class="fab fa-twitter rounded-icon bg-icon fs-16" title="telegram"></a>
 							<a href="#" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
-							<a href="#" class="fab fa-instagram rounded-icon bg-icon fs-16" title="instagram"></a>
-							<div class="fw-divider-space divider-xl-160 divider-lg-130 divider-md-60 divider-30"></div>
 						</div>
 
-						<div class="col-lg-4 col-md-12 ls order-3 order-lg-2 footer-special-column text-center animate" data-animation="fadeInUp">
-							<div class="form-wrapper">
-								<form class="contact-form" method="post" action="/">
-									<div class="row c-mb-20">
-										<div class="col-12 form-title text-center form-builder-item">
-											<div class="header title">
-												<h2>Contact us</h2>
-											</div>
-										</div>
-									</div>
-									<div class="row c-mb-10 c-gutter-10">
-										<div class="col-lg-12 text-center">
-											<div class="form-group has-placeholder">
-												<label for="name22335x5553">Full Name <span class="required">*</span></label>
-												<input type="text" aria-required="true" size="30" value="" name="name" id="name22335x5553" class="form-control" placeholder="Full Name">
-											</div>
-										</div>
-									</div>
-									<div class="row c-mb-10 c-gutter-10">
-										<div class="col-lg-12 text-center">
-											<div class="form-group has-placeholder">
-												<label for="name223355553">Phone Number <span class="required">*</span></label>
+						<div class="col-lg-3 col-md-6 animate" data-animation="fadeInUp">
 
-												<input type="text" aria-required="true" size="30" value="" name="name" id="name223355553" class="form-control" placeholder="Phone Number">
-											</div>
-										</div>
-									</div>
-									<div class="row c-mb-10 c-gutter-10">
-										<div class="col-sm-12 text-center">
-											<div class="form-group has-placeholder">
-												<label for="email">Email</label>
-
-												<input type="email" aria-required="true" name="email" id="email" class="form-control" placeholder="Email">
-											</div>
-										</div>
-									</div>
-									<div class="row c-mb-10 c-gutter-10">
-										<div class="col-sm-12 text-center">
-											<div class="form-group has-placeholder">
-												<label for="message22335553">Message</label>
-
-												<textarea aria-required="true" rows="6" cols="45" name="message" id="message22335553" class="form-control" placeholder="Your Message"></textarea>
-											</div>
-										</div>
-									</div>
-									<div class="row c-mb-10 c-gutter-10">
-										<div class="col-sm-12 mb-0 mt-50">
-											<div class="form-group">
-												<input class="btn btn-gradient big-btn" type="submit" value="Send">
-											</div>
-										</div>
-									</div>
-								</form>
-							</div>
-							<h6 class="fs-12 text-uppercase">&copy; Copyright <span class="copyright_year">{{date('Y')}}</span> All Rights Reserved</h6>
-						</div>
-
-						<div class="col-lg-4 col-md-6 order-2 order-lg-3 animate" data-animation="fadeInUp">
-							<div class="fw-divider-space divider-xl-160 divider-lg-130 divider-md-90"></div>
 							<div class="widget widget_icons_list">
+								<h3 class="widget-title">Contact Detail</h3>
 								<ul>
 									<li class="icon-inline ">
 										<div class="icon-styled icon-top  bordered round fs-16">
@@ -352,35 +285,60 @@
 
 
 										</div>
-										<p><a href="#">Info@OptiEnergies.com</a></p>
+										<p>Info@OptiEnergies.com</p>
 									</li>
 									<li class="icon-inline">
 										<div class="icon-styled icon-top bordered round  fs-16">
 											<i class="fas fa-map-marker-alt"></i>
 										</div>
 										<p>
-											AG-PF-356, JLT, DXB, UAE.
+											<a href="#">AG-PF-356, JLT, DXB, UAE.</a>
 										</p>
 									</li>
-									{{-- <li class="icon-inline">
-										<div class="icon-styled icon-top bordered round  fs-16">
-											<i class="fas fa-clock"></i>
-										</div>
-										<p>
-											Mo-Fri: 8am - 6pm<br>
-											Sat: 10am - 4pm<br>
-											Sun: of
-										</p>
-									</li> --}}
+
 								</ul>
 							</div>
-							<div class="fw-divider-space divider-xl-160 divider-lg-130 divider-md-60 divider-30"></div>
 						</div>
+{{-- 
+						<div class="col-lg-3 col-md-6 animate" data-animation="fadeInUp">
+							<div class="widget widget_nav_menu mb-0">
+								<h3 class="widget-title">Our Services</h3>
+								<ul class="list-unstyled">
+									<li>
+										<a href="service-single.html">Bottled water delivery</a>
+									</li>
+									<li>
+										<a href="service-single.html">Water filters installation</a>
+									</li>
+									<li>
+										<a href="service-single.html">Coffee delivery and service</a>
+									</li>
+
+									<li>
+										<a href="service-single.html">Office equipment rent</a>
+									</li>
+								</ul>
+							</div>
+						</div> --}}
+
+
 					</div>
 				</div>
 
 			</footer>
 
+
+			<section class="page_copyright ls ms s-py-15 s-bordertop">
+				<div class="container">
+					<div class="row align-items-center">
+
+						<div class="col-md-12 text-center">
+							<p>&copy; Copyright <span class="copyright_year">{{date('Y')}}</span> All Rights Reserved</p>
+						</div>
+
+					</div>
+				</div>
+			</section>
 
 		</div><!-- eof #box_wrapper -->
 	</div><!-- eof #canvas -->
