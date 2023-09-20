@@ -214,7 +214,8 @@
                 <div class="row">
                     <!-- Card 1 -->
                     <div class="col-md-6 mb-4">
-                        <div class="card">
+                        <div class="card" style="background-color: inherit;
+                        border: 6px solid rgba(0,0,0,.125);">
                             <a href="https://www.rofspc.com/" target="_blank">
                             <img src="/images/gallery/full/rof_logo2.png" class="card-img-top" alt="Client 1">
                             </a>
@@ -223,23 +224,26 @@
         
                     <!-- Card 2 -->
                     <div class="col-md-6 mb-4">
-                        <div class="card" style="background-image: linear-gradient(rgba(10, 27, 43, .47), rgba(10, 27, 43, .98) 70%, #0a1b2b)">
+                        <div class="card" style="padding-bottom: 34px; background-color: inherit;
+                        border: 6px solid rgba(0,0,0,.125);">
                             <a href="https://www.renovo-energy.com/" target="_blank">
-                            <img src="/images/gallery/full/renovo.svg" class="card-img-top" alt="Client 2">
+                            <img src="/images/gallery/full/renovo.png" class="card-img-top" alt="Client 2">
                             </a>
                         </div>
                     </div>
 
                     <!-- Card 3 -->
                     <div class="col-md-6 mb-4">
-                        <div class="card">
+                        <div class="card" style="background-color: inherit;
+                        border: 6px solid rgba(0,0,0,.125);">
                             <a href="https://jarleneinvestments.com/" target="_blank">
                             <img src="/images/gallery/full/jarlen.png" class="card-img-top" alt="Client 3">
                             </a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
-                        <div class="card" style="height: 100%;">
+                        <div class="card" style="background-color: inherit;
+                        border: 6px solid rgba(0,0,0,.125); padding-bottom: 33px;">
                             <a href="https://recom-tech.com/" target="_blank">
                             <img src="/images/gallery/full/RECOM_LOGO-1024x277.png" class="card-img-top" alt="Client 3">
                             </a>
@@ -436,6 +440,7 @@
                         <h5>
                             Oil Pump
                         </h5>
+                        <p>Hello hhello hellloooo </p>
                     </a>
                 </div>
             </div>

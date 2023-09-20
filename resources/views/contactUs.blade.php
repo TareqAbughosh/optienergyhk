@@ -101,7 +101,7 @@
                             <h6 class="">
                                 Our Number
                             </h6>
-                            <p class="">+971 (42) 678443</p>
+                            <p class="">+971 (58) 9646615</p>
                         </div>
                     </div>
                     <div class="divider-50 hidden-below-lg"></div>
@@ -120,6 +120,36 @@
                             <p class="">Info@OptiEnergies.com</p>
                         </div>
                     </div>
+                    <div class="container smaller-container mt-5">
+                        <h2 class="smaller-heading mb-4">Our Locations:</h2>
+                        <div class="card mb-4" style="background-color: inherit; border: none;">
+                            <div class="row no-gutters">
+                                <!-- Location: UAE -->
+                                <div class="col-md-4" style="inherit; border: none;">
+                                    <img src="/images/dubai.png" class="card-img img-fluid" alt="UAE">
+                                </div>
+                                <div class="col-8">
+                                    <div class="card-body">
+                                        <h6 class="card-title" style="font-size: small;">Dubai, UAE.</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                
+                        <div class="card mb-4" style="background-color: inherit; border: none;">
+                            <div class="row no-gutters">
+                                <!-- Location: Turkey -->
+                                <div class="col-md-4" style="inherit; border: none;">
+                                    <img src="/images/turkey.jpeg" class="card-img" alt="Turkey">
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body">
+                                        <h5 class="card-title" style="font-size: small;">Istanbul, Turkey</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="divider-50 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
                     <div class="divider-line bg-maincolor text-center"></div>
@@ -133,54 +163,6 @@
                 </div>
             </div>
             <!--.col-* -->
-        </div>
-    </div>
-    <div class="container smaller-container mt-5">
-        <h2 class="smaller-heading mb-4">Our Locations</h2>
-        <div class="card mb-4">
-            <div class="row no-gutters">
-                <!-- Location: UAE -->
-                <div class="col-md-4">
-                    <img src="/images/dubai.jpeg" class="card-img img-fluid" alt="UAE">
-                </div>
-                <div class="col-8">
-                    <div class="card-body">
-                        <h5 class="card-title">United Arab Emirates, Dubai</h5>
-                        <p class="card-text text-muted">AG-PF-356, JLT, DXB, UAE</p>
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="card-text">Phone: +971 (42) 678443</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="card-text">Email: Info@OptiEnergies.com</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="card mb-4">
-            <div class="row no-gutters">
-                <!-- Location: Turkey -->
-                <div class="col-md-4">
-                    <img src="/images/turkey.jpeg" class="card-img" alt="Turkey">
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title">Turkey</h5>
-                        <p class="card-text text-muted">Istanbul Office</p>
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="card-text">Phone: +971 (42) 678443</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="card-text">Email: Info@OptiEnergies.com</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </section>

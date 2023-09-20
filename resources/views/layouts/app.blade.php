@@ -187,10 +187,10 @@
 						<div class="row d-flex align-items-center justify-content-center">
 							<div class="col-xl-3 col-md-4 col-12 text-center">
 								<a href="./" class="logo">
-									<img src="/images/logo.png" alt="">
+									<img src="/images/logo-white.png" alt="">
 									<span class="d-flex flex-column">
-										<span class="logo-text color-darkgrey">Opti Energy</span>
-										<span class="logo-subtext"> New dimension in Energy Solutions.</span>
+										<span class="logo-text color-darkgrey"><strong>Opti Energy</strong></span>
+										<span class="logo-subtext"> Powering the Future.</span>
 									</span>
 								</a>
 							</div>
@@ -259,7 +259,7 @@
 
 						<div class="col-lg-4 col-md-6  animate" data-animation="fadeInUp">
 							<a href="./" class="logo">
-								<img src="images/logo.png" alt="">
+								<img src="images/logo-white.png" alt="">
 								<span class="d-flex flex-column">
 									<span class="logo-text color-darkgrey">Opti Energy</span>
 									<span class="logo-subtext"> New dimension in Energy Solutions.</span>
@@ -277,7 +277,7 @@
 										<div class="icon-styled icon-top  bordered round fs-16">
 											<i class="fas fa-phone"></i>
 										</div>
-										<p>+971 (42) 678443</p>
+										<p>+971 (58) 9646615</p>
 									</li>
 									<li class="icon-inline">
 										<div class="icon-styled icon-top bordered round  fs-16">
