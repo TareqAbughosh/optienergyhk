@@ -66,6 +66,69 @@
     </div> <!-- eof flexslider -->
 </section>
 
+<section class="ds text-sm-left text-center container-px-0 c-gutter-0">
+    <div class="container-fluid">
+        <div class="row service-v2 justify-content-center">
+            <div class="col-sm-6 col-md-4 col-xl-2   ">
+                <div class="icon-box service-single with-icon layout2 ds text-center">
+                    <a class="link-icon" href="#">
+                        <div class="icon-styled  fs-50" >
+                            <i class="fas fa-handshake"style="width: inherit;"></i>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <h5>
+                            Consultation
+                        </h5>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-xl-2   ">
+                <div class="icon-box service-single with-icon layout2 ds text-center">
+                    <a class="link-icon" href="#">
+                        <div class="icon-styled  fs-50">
+                            <i class="ico ico-tank"></i>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <h5>
+                            Gas Trading
+                        </h5>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-xl-2   ">
+                <div class="icon-box service-single with-icon layout2 ds text-center">
+                    <a class="link-icon" href="#">
+                        <div class="icon-styled  fs-50">
+                            <i class="ico ico-oil"></i>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <h5>
+                            Oil Trading
+                        </h5>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-xl-2   ">
+                <div class="icon-box service-single with-icon layout2 ds text-center">
+                    <a class="link-icon" href="#">
+                        <div class="icon-styled fs-50">
+                            <i class="fas fa-solar-panel" style="width: inherit;"></i>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <h5>
+                            Green Energy Trading.
+                        </h5>
+                    </a>
+                </div>
+            </div>
+           
+        </div>
+    </div>
+</section>
 
 {{-- <section class="ls main-testimonial s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60">
     <div class="container">
@@ -311,7 +374,7 @@
     </div>
 </section>
 
-<section id="team" class="ls ms s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60" style="height: 50vh">
+{{-- <section id="team" class="ls ms s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60" style="height: 50vh">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -334,7 +397,7 @@
 
                     <div class="vertical-item text-center">
                         <div class="item-media">
-                            {{-- <img src="/images/team/01.png" alt="team"> --}}
+                            <img src="/images/team/01.png" alt="team">
                             <div class="media-links">
                                 <span class="social-icons">
                                     <a href="#" class="fab fa-facebook-f" title="facebook"></a>
@@ -382,99 +445,7 @@
         </div>
         <div class="mt--20"></div>
     </div>
-</section>
-
-<section class="ds text-sm-left text-center container-px-0 c-gutter-0">
-    <div class="container-fluid">
-        <div class="row service-v2">
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
-                <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
-                        <div class="icon-styled  fs-50">
-                            <i class="ico ico-refinery"></i>
-                        </div>
-                    </a>
-                    <a href="service-single.html">
-                        <h5>
-                            Thermal Power
-                        </h5>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
-                <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
-                        <div class="icon-styled  fs-50">
-                            <i class="ico ico-tank"></i>
-                        </div>
-                    </a>
-                    <a href="service-single.html">
-                        <h5>
-                            Oil Platform
-                        </h5>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
-                <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
-                        <div class="icon-styled  fs-50">
-                            <i class="ico ico-oil"></i>
-                        </div>
-                    </a>
-                    <a href="service-single.html">
-                        <h5>
-                            Gas Flaring
-                        </h5>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
-                <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
-                        <div class="icon-styled  fs-50">
-                            <i class="ico ico-extraction"></i>
-                        </div>
-                    </a>
-                    <a href="service-single.html">
-                        <h5>
-                            Oil Pump
-                        </h5>
-                        <p>Hello hhello hellloooo </p>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
-                <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
-                        <div class="icon-styled  fs-50">
-                            <i class="ico ico-oil-tanker"></i>
-                        </div>
-                    </a>
-                    <a href="service-single.html">
-                        <h5>
-                            Oil Refinaery
-                        </h5>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
-                <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
-                        <div class="icon-styled  fs-50">
-                            <i class="ico ico-pipe"></i>
-                        </div>
-                    </a>
-                    <a href="service-single.html">
-                        <h5>
-                            Factory
-                        </h5>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+</section> --}}
 
 {{-- <section class="ds call-to-action text-center  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60">
     <div class="container">
@@ -528,7 +499,7 @@ Leveraging our team's extensive expertise, we are committed to fostering sustain
                 <div class="d-flex flex-column flex-sm-row justify-content-between flex-wrap ">
                     <div class="simple-counter">
                         <h3 class="special-heading counter-wrap">
-                            <span class="counter color-main thin big" data-from="0" data-to="10" data-speed="1800">0</span>
+                            <span class="counter color-main thin big" data-from="0" data-to="15" data-speed="1800">0</span>
                         </h3>
                         <p class="special-heading bold color-darkgrey">
                             <span>
@@ -544,11 +515,11 @@ Leveraging our team's extensive expertise, we are committed to fostering sustain
                     <div class="divider-30 hidden-above-sm"></div>
                     <div class="simple-counter">
                         <h3 class="special-heading counter-wrap">
-                            <span class="counter color-main thin big" data-from="0" data-to="3" data-speed="1800">0</span>
+                            <span class="counter color-main thin big" data-from="0" data-to="1" data-speed="1800">0</span>
                         </h3>
                         <p class="special-heading bold color-darkgrey">
                             <span>
-                                Offices
+                                Office
                             </span>
                         </p>
                         <h6 class="special-heading text-capitalize">
@@ -560,12 +531,12 @@ Leveraging our team's extensive expertise, we are committed to fostering sustain
                     <div class="divider-30 hidden-above-sm"></div>
                     <div class="simple-counter">
                         <h3 class="special-heading counter-wrap">
-                            <span class="counter color-main thin big" data-from="0" data-to="30" data-speed="1800">0</span>
                             <span class="counter-add thin color-main big">+</span>
+                            <span class="counter color-main thin big" data-from="0" data-to="30" data-speed="1800">0</span>
                         </h3>
                         <p class="special-heading bold color-darkgrey">
                             <span>
-                                Workers
+                                Professionals
                             </span>
                         </p>
                         <h6 class="special-heading text-capitalize">

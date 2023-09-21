@@ -21,3 +21,13 @@ Route::get('/', function () {
 Route::get('/contact-us', function () {
     return view('contactUs');
 })->name('contact_us');
+
+Route::prefix('/services')->group(function() {
+    Route::get('/oil-and-gas-trading', function(){
+        return view('trading');
+    })->name('oilTrading');
+
+    Route::get('/renewable-energy-equipment-trading', function(){
+        return view('renewable');
+    })->name('renewableTrading');
+});

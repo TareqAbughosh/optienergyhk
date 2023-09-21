@@ -186,7 +186,7 @@
 
 						<div class="row d-flex align-items-center justify-content-center">
 							<div class="col-xl-3 col-md-4 col-12 text-center">
-								<a href="./" class="logo">
+								<a href="/" class="logo">
 									<img src="/images/logo-white.png" alt="">
 									<span class="d-flex flex-column">
 										<span class="logo-text color-darkgrey"><strong>Opti Energy</strong></span>
@@ -200,7 +200,17 @@
 									<ul class="nav sf-menu">
 
 										<li>
-											<a href="#services">Services</a>
+											<a>Services</a>
+											<ul>
+												<li>
+													<a href="{{route('oilTrading')}}">Oil and Gas Trading</a>
+												</li>
+
+												<li>
+													<a href="{{route('renewableTrading')}}">Renewable Energy Equipment Trading</a>
+												</li>
+
+											</ul>
 										</li>
 										<!-- eof pages -->
 
@@ -258,11 +268,11 @@
 					<div class="row justify-content-center">
 
 						<div class="col-lg-4 col-md-6  animate" data-animation="fadeInUp">
-							<a href="./" class="logo">
+							<a href="/" class="logo">
 								<img src="images/logo-white.png" alt="">
 								<span class="d-flex flex-column">
 									<span class="logo-text color-darkgrey">Opti Energy</span>
-									<span class="logo-subtext"> New dimension in Energy Solutions.</span>
+									<span class="logo-subtext">  Powering the Future.</span>
 								</span>
 							</a>
 							<a href="#" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
@@ -344,8 +354,8 @@
 	</div><!-- eof #canvas -->
 
 
-	<script src="js/compressed.js"></script>
-	<script src="js/main.js"></script>
+	<script src="/js/compressed.js"></script>
+	<script src="/js/main.js"></script>
 
 
 	<!-- Google Map Script -->

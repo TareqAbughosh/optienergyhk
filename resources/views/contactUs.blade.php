@@ -136,7 +136,7 @@
                             </div>
                         </div>
                 
-                        <div class="card mb-4" style="background-color: inherit; border: none;">
+                        {{-- <div class="card mb-4" style="background-color: inherit; border: none;">
                             <div class="row no-gutters">
                                 <!-- Location: Turkey -->
                                 <div class="col-md-4" style="inherit; border: none;">
@@ -148,7 +148,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                     <div class="divider-50 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>

@@ -1711,7 +1711,7 @@
 
         var offices = [
             {latLng: [25.276987,55.296249], name: "UAE"},
-            {latLng: [38.356869,38.309669], name: "Turkey"},
+            // {latLng: [38.356869,38.309669], name: "Turkey"},
         ];
 
         if ( document.getElementById('map-vector') ) {
