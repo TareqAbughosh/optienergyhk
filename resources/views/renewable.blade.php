@@ -4,7 +4,7 @@
 <section class="ls ms text-sm-left text-center s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-280 s-pb-lg-250 s-pb-md-90 s-pb-60 c-gutter-60">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-xl-10 offset-xl-1">
+            <div class="col-12 col-xl-10">
                 <img class="rounded" src="/images/services/renewableEnergy.webp" alt="">
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -18,6 +18,8 @@
                     When it comes to trading in renewable energy equipment, the stakes are not just
                     financial; they're environmental too. At Opti Energy, we’re passionate about
                     contributing to a greener planet, and we bring that passion to every deal we make.
+
+                    Core Competencies
                 </p>
                 <ul class="list-styled">
                     <li>Sustainability</li>

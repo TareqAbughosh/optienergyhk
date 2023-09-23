@@ -5,29 +5,28 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-xl-10">
-                <img class="rounded" src="/images/services/service1.jpg" alt="">
+                <img class="rounded" src="/images/services/renewableEnergy.webp" alt="">
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
                 <h2 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Oil and Gas Trading at Opti Energy
+                        Powering a Sustainable Future, One Project at a Time
                     </span>
                 </h2>
                 <div class="divider-25"></div>
                 <p>
-                    Where Relationships and Market Savvy Meet
-                    In the oil and gas trading world, there's no substitute for the human touch. With Opti
-                    Energy, you're not just getting another service provider; you're gaining a trusted
-                    partner who understands the ins and outs of this complex and volatile market.
+                    The quest for clean, sustainable energy solutions is more than just a trend—it's a
+                    global imperative. At Opti Energy, we take this responsibility seriously, offering expert
+                    consultation and project development services in the renewable energy sector.
 
                     Core Competencies
                 </p>
                 <ul class="list-styled">
-                    <li>Relationships</li>
-                    <li>Analysis</li>
-                    <li>Compliance</li>
-                    <li>Logistics</li>
-                    <li>Risk Mitigation</li>
+                    <li>Innovation</li>
+                    <li>Sustainability</li>
+                    <li>Expertise</li>
+                    <li>Customization</li>
+                    <li>Collaboration</li>
                 </ul>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -36,13 +35,13 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Experience Makes the Difference
+                        Expertise That Counts
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>With a team that has over 15 years of combined experience in the industry, we're not
-                    just traders. We're seasoned professionals who know how to read market signals
-                    and navigate the complexities of oil and gas trading.
+                <p>Our team, with over 15 years of combined experience in the energy sector, offers an
+                    extensive range of insights and skills. We go beyond simple advisory roles to
+                    become your committed partners in renewable energy project development.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -51,13 +50,34 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Making Informed Decisions
+                        Comprehensive Services
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>While we may not offer a tech platform, what we do provide is deep market insight
-                    based on years of experience. We'll guide you through each transaction, ensuring
-                    that you make the best choices for your business needs.
+                <ul class="list-styled">
+                    <li>Solar Energy: From solar farm planning to photovoltaic installations, we guide
+                        you through the complexities of harnessing the sun’s power effectively.</li>
+                    <li>Wind Energy: Offering consultation on optimal site locations, turbine
+                        technology, and operational logistics to make your wind energy project a
+                        success.</li>
+                    <li>Green Hydrogen: Tapping into the potential of green hydrogen as a clean
+                        energy source, we provide end-to-end consultation and project development
+                        services.</li>
+                </ul>
+                <div class="divider-60 hidden-below-lg"></div>
+                <div class="divider-30 hidden-above-lg"></div>
+            </div>
+            <div class="col-lg-6 col-12 col-xl-5">
+                <div class="divider-30 hidden-above-lg"></div>
+                <h3 class="special-heading text-sm-left text-center">
+                    <span class="text-capitalize">
+                        Tailor-Made Solutions
+                    </span>
+                </h3>
+                <div class="divider-25"></div>
+                <p>We recognize that every project is unique. That’s why we offer custom consultation
+                    services, ensuring that each solution we propose aligns perfectly with your specific
+                    needs and goals.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -66,13 +86,14 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Managing Risks Effectively
+                        Beyond Borders, Beyond Transactions
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>Volatility is the name of the game in oil and gas trading, and managing that risk is
-                    crucial. Our team's deep understanding of market trends, price fluctuations, and
-                    geopolitical impacts allows us to navigate these waters skillfully.
+                <p>With offices in Dubai and Turkey, we’re well-positioned to connect you with
+                    top-quality renewable energy equipment from across the globe. More than that, we
+                    aim to understand the unique needs of different regional markets, making sure we
+                    offer you the most relevant solutions.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -81,14 +102,13 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Where Global Meets Local
+                        Seamless Project Execution
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>With key locations in Dubai and Turkey, we've got a global reach that's
-                    complemented by local expertise. We understand how to source the best oil and gas
-                    products from around the world, and we're well-versed in the unique characteristics
-                    of different regional markets.
+                <p>With offices in Dubai and Turkey, we provide localized expertise with a global
+                    perspective. Our multi-disciplinary approach ensures seamless project development
+                    from conception to completion.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -97,13 +117,13 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Transparency and Integrity
+                        A Commitment to Ethics and Transparency
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>In an industry where regulations can be stringent, and ethical practices are vital, we
-                    pride ourselves on conducting business with the utmost transparency and integrity.
-                    We believe in building relationships that last, based on mutual trust and respect.
+                <p>Integrity is at the core of everything we do. We are committed to ethical practices
+                    and transparent dealings, ensuring you can place your full trust in us as we work
+                    together to create a more sustainable future.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -112,13 +132,13 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Let's Talk
+                        Let’s Connect
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>Interested in making your oil and gas trading operations more efficient and
-                    relationship-focused? Reach out to us for a one-on-one consultation and discover
-                    how Opti Energy can make a difference in your business.
+                <p>Ready to make strides toward a greener, more sustainable energy landscape?
+                    Contact Opti Energy today for a personalized consultation and discover how we can
+                    turn your renewable energy visions into reality.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>

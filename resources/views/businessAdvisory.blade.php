@@ -5,29 +5,28 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-xl-10">
-                <img class="rounded" src="/images/services/service1.jpg" alt="">
+                <img class="rounded" src="/images/services/business-advisory.jpg" alt="">
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
                 <h2 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Oil and Gas Trading at Opti Energy
+                        Charting the Course for Your Success, One Decision at a Time
                     </span>
                 </h2>
                 <div class="divider-25"></div>
                 <p>
-                    Where Relationships and Market Savvy Meet
-                    In the oil and gas trading world, there's no substitute for the human touch. With Opti
-                    Energy, you're not just getting another service provider; you're gaining a trusted
-                    partner who understands the ins and outs of this complex and volatile market.
+                    In today's complex and rapidly changing business environment, making the right
+                    decisions can be challenging. At Opti Energy, we're here to guide you through it all,
+                    offering expert advice that's tailored to your unique business needs.
 
                     Core Competencies
                 </p>
                 <ul class="list-styled">
-                    <li>Relationships</li>
+                    <li>Strategy</li>
                     <li>Analysis</li>
                     <li>Compliance</li>
-                    <li>Logistics</li>
-                    <li>Risk Mitigation</li>
+                    <li>Customization</li>
+                    <li>Client-Centricity</li>
                 </ul>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -36,13 +35,15 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Experience Makes the Difference
+                        A Wealth of Expertise
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>With a team that has over 15 years of combined experience in the industry, we're not
-                    just traders. We're seasoned professionals who know how to read market signals
-                    and navigate the complexities of oil and gas trading.
+                <p>
+                    Our advisory team comes with a rich history of more than 15 years of combined
+                    experience across multiple sectors. We go beyond traditional advisory roles, acting
+                    as your strategic partners to navigate the complexities of the business world
+                    together.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -51,13 +52,33 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Making Informed Decisions
+                        Comprehensive Advisory Offerings
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>While we may not offer a tech platform, what we do provide is deep market insight
-                    based on years of experience. We'll guide you through each transaction, ensuring
-                    that you make the best choices for your business needs.
+                <ul class="list-styled">
+                    <li>Feasibility Studies: Assessing the viability of your business ideas or
+                        expansion plans with in-depth analysis and market research.</li>
+                    <li>Financial Modeling: Crafting robust financial models that provide a clear
+                        picture of your business's financial trajectory.</li>
+                    <li>Business Plans: Developing comprehensive business plans that serve as your
+                        roadmap for success, detailing everything from marketing strategies to
+                        operational logistics.</li>
+                </ul>
+                <div class="divider-60 hidden-below-lg"></div>
+                <div class="divider-30 hidden-above-lg"></div>
+            </div>
+            <div class="col-lg-6 col-12 col-xl-5">
+                <div class="divider-30 hidden-above-lg"></div>
+                <h3 class="special-heading text-sm-left text-center">
+                    <span class="text-capitalize">
+                        Compliance and Best Practices
+                    </span>
+                </h3>
+                <div class="divider-25"></div>
+                <p>Navigating regulatory hurdles and implementing best practices is easier said than
+                    done. Our team is adept at guiding you through this landscape, ensuring your
+                    business aligns with the latest regulations and industry standards.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -66,22 +87,7 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Managing Risks Effectively
-                    </span>
-                </h3>
-                <div class="divider-25"></div>
-                <p>Volatility is the name of the game in oil and gas trading, and managing that risk is
-                    crucial. Our team's deep understanding of market trends, price fluctuations, and
-                    geopolitical impacts allows us to navigate these waters skillfully.
-                </p>
-                <div class="divider-60 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-            </div>
-            <div class="col-lg-6 col-12 col-xl-5">
-                <div class="divider-30 hidden-above-lg"></div>
-                <h3 class="special-heading text-sm-left text-center">
-                    <span class="text-capitalize">
-                        Where Global Meets Local
+                        Building Relationships for the Long Run
                     </span>
                 </h3>
                 <div class="divider-25"></div>
@@ -101,9 +107,9 @@
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>In an industry where regulations can be stringent, and ethical practices are vital, we
-                    pride ourselves on conducting business with the utmost transparency and integrity.
-                    We believe in building relationships that last, based on mutual trust and respect.
+                <p>At Opti Energy, we believe in establishing long-term relationships with our clients.
+                    With offices in Dubai and Turkey, we're equipped to offer personalized service that
+                    takes into account both global standards and local nuances.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -112,13 +118,28 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Let's Talk
+                        Trust, Transparency, and You
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>Interested in making your oil and gas trading operations more efficient and
-                    relationship-focused? Reach out to us for a one-on-one consultation and discover
-                    how Opti Energy can make a difference in your business.
+                <p>Ethical practices and transparent communications form the backbone of our advisory
+                    services. We're committed to offering solutions that are not just effective but are also
+                    grounded in trust and mutual respect.
+                </p>
+                <div class="divider-60 hidden-below-lg"></div>
+                <div class="divider-30 hidden-above-lg"></div>
+            </div>
+            <div class="col-lg-6 col-12 col-xl-5">
+                <div class="divider-30 hidden-above-lg"></div>
+                <h3 class="special-heading text-sm-left text-center">
+                    <span class="text-capitalize">
+                        Get in Touch
+                    </span>
+                </h3>
+                <div class="divider-25"></div>
+                <p>Looking to make informed, strategic decisions for your business? Contact Opti
+                    Energy today for a personalized consultation and discover how our advisory services
+                    can propel your business forward.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>

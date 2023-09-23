@@ -78,6 +78,20 @@
                     </a>
                     <a href="#">
                         <h5>
+                            Escrow
+                        </h5>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-xl-2   ">
+                <div class="icon-box service-single with-icon layout2 ds text-center">
+                    <a class="link-icon" href="#">
+                        <div class="icon-styled  fs-50" >
+                            <i class="fas fa-handshake"style="width: inherit;"></i>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <h5>
                             Consultation
                         </h5>
                     </a>
@@ -121,6 +135,20 @@
                     <a href="#">
                         <h5>
                             Green Energy Trading.
+                        </h5>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-xl-2   ">
+                <div class="icon-box service-single with-icon layout2 ds text-center">
+                    <a class="link-icon" href="#">
+                        <div class="icon-styled fs-50">
+                            <i class="fas fa-solar-panel" style="width: inherit;"></i>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <h5>
+                            Solar development.
                         </h5>
                     </a>
                 </div>
@@ -520,6 +548,7 @@ Leveraging our team's extensive expertise, we are committed to fostering sustain
                         <p class="special-heading bold color-darkgrey">
                             <span>
                                 Office
+
                             </span>
                         </p>
                         <h6 class="special-heading text-capitalize">

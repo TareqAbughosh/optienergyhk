@@ -5,29 +5,29 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-xl-10">
-                <img class="rounded" src="/images/services/service1.jpg" alt="">
+                <img class="rounded" src="/images/services/escrow.jpeg" alt="">
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
                 <h2 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Oil and Gas Trading at Opti Energy
+                        Securing Your Transactions, Safeguarding Your Peace of Mind
                     </span>
                 </h2>
                 <div class="divider-25"></div>
                 <p>
-                    Where Relationships and Market Savvy Meet
-                    In the oil and gas trading world, there's no substitute for the human touch. With Opti
-                    Energy, you're not just getting another service provider; you're gaining a trusted
-                    partner who understands the ins and outs of this complex and volatile market.
+                    In the world of commodity trading and energy finance, transactions are more than
+                    mere exchanges—they're strategic movements that can make or break your
+                    business. Opti Energy offers specialized escrow services designed to ensure each
+                    transaction proceeds with utmost security and transparency.
 
                     Core Competencies
                 </p>
                 <ul class="list-styled">
-                    <li>Relationships</li>
-                    <li>Analysis</li>
+                    <li>Security</li>
+                    <li>Confidentiality</li>
+                    <li>Precision</li>
                     <li>Compliance</li>
-                    <li>Logistics</li>
-                    <li>Risk Mitigation</li>
+                    <li>Integrity</li>
                 </ul>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -36,13 +36,13 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Experience Makes the Difference
+                        Unparalleled Expertise
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>With a team that has over 15 years of combined experience in the industry, we're not
-                    just traders. We're seasoned professionals who know how to read market signals
-                    and navigate the complexities of oil and gas trading.
+                <p>Our team has over 15 years of combined experience in the energy and commodities
+                    sectors. We leverage this wealth of knowledge to provide secure and efficient escrow
+                    services tailored to your unique requirements.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -51,13 +51,33 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Making Informed Decisions
+                        Services Tailored to Your Needs
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>While we may not offer a tech platform, what we do provide is deep market insight
-                    based on years of experience. We'll guide you through each transaction, ensuring
-                    that you make the best choices for your business needs.
+                <ul class="list-styled">
+                    <li>Commodity Trading Escrow: Our escrow services offer a secure mechanism
+                        for buying and selling commodities. We act as a trusted third party, holding
+                        funds or assets until the transaction's specified conditions are met.</li>
+                    <li>Energy Finance Escrow: In a sector where large sums are frequently moved,
+                        we offer escrow services that safeguard your financial transactions, ensuring
+                        that funds are released only when all contractual obligations are fulfilled.</li>
+                </ul>
+                <div class="divider-60 hidden-below-lg"></div>
+                <div class="divider-30 hidden-above-lg"></div>
+            </div>
+            <div class="col-lg-6 col-12 col-xl-5">
+                <div class="divider-30 hidden-above-lg"></div>
+                <h3 class="special-heading text-sm-left text-center">
+                    <span class="text-capitalize">
+                        Risk Mitigation and Compliance
+                    </span>
+                </h3>
+                <div class="divider-25"></div>
+                <p>In an industry that’s continuously evolving, keeping up-to-date with regulations and
+                    quality standards is paramount. Our experienced team is well-versed in regulatory
+                    requirements and ensures all traded equipment meets the necessary quality and
+                    compliance standards.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -66,13 +86,13 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Managing Risks Effectively
+                        Compliance Above All
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>Volatility is the name of the game in oil and gas trading, and managing that risk is
-                    crucial. Our team's deep understanding of market trends, price fluctuations, and
-                    geopolitical impacts allows us to navigate these waters skillfully.
+                <p>Regulatory compliance is at the forefront of our escrow services. We adhere to all
+                    relevant laws and industry best practices to ensure your transactions are conducted
+                    with complete integrity and legal compliance.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -81,14 +101,14 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Where Global Meets Local
+                        Building Trust Through Transparency
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>With key locations in Dubai and Turkey, we've got a global reach that's
-                    complemented by local expertise. We understand how to source the best oil and gas
-                    products from around the world, and we're well-versed in the unique characteristics
-                    of different regional markets.
+                <p>We understand the importance of trust in high-value transactions. Our processes are
+                    fully transparent, and we keep you informed at every step. At Opti Energy, we
+                    believe that a successful transaction is one where both parties walk away satisfied
+                    and secure.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -97,13 +117,12 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Transparency and Integrity
+                        Global Expertise, Localized Solutions
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>In an industry where regulations can be stringent, and ethical practices are vital, we
-                    pride ourselves on conducting business with the utmost transparency and integrity.
-                    We believe in building relationships that last, based on mutual trust and respect.
+                <p>With operational offices in Dubai and Turkey, we’re uniquely positioned to offer
+                    escrow services that meet both global standards and local requirements.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -112,13 +131,13 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Let's Talk
+                        Contact Us
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>Interested in making your oil and gas trading operations more efficient and
-                    relationship-focused? Reach out to us for a one-on-one consultation and discover
-                    how Opti Energy can make a difference in your business.
+                <p>Entrust your commodity trading and energy finance transactions to experts who
+                    understand the stakes. Reach out to Opti Energy today for a personalized
+                    consultation on how our specialized escrow services can benefit you.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>

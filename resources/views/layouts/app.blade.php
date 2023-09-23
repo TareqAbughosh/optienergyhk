@@ -209,7 +209,18 @@
 												<li>
 													<a href="{{route('renewableTrading')}}">Renewable Energy Equipment Trading</a>
 												</li>
-
+												
+												<li>
+													<a href="{{route('businessadv')}}">Business Advisory Services</a>
+												</li>
+												
+												<li>
+													<a href="{{route('renewableEnergy')}}"> Renewable Energy Development & Consultation </a>
+												</li>
+									
+												<li>
+													<a href="{{route('escrow')}}"> Escrow services </a>
+												</li>
 											</ul>
 										</li>
 										<!-- eof pages -->

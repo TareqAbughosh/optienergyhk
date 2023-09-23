@@ -30,4 +30,16 @@ Route::prefix('/services')->group(function() {
     Route::get('/renewable-energy-equipment-trading', function(){
         return view('renewable');
     })->name('renewableTrading');
+
+    Route::get('/business-advisory-services', function(){
+        return view('businessAdvisory');
+    })->name('businessadv');
+
+    Route::get('/renewable-energy-development-consultation', function(){
+        return view('development');
+    })->name('renewableEnergy');
+
+    Route::get('/escrow-services', function(){
+        return view('escrow');
+    })->name('escrow');
 });
