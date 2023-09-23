@@ -174,7 +174,7 @@
 								</form>
 							</div>
 							<div class="widget widget_social_icons">
-								<a href="#" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
+								<a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
 							</div>
 						</div>
 					</div>
@@ -194,7 +194,7 @@
 									</span>
 								</a>
 							</div>
-							<div class="col-xl-6 col-1 text-center">
+							<div class="col-xl-6 col-1 text-right">
 								<!-- main nav start -->
 								<nav class="top-nav">
 									<ul class="nav sf-menu">
@@ -231,7 +231,7 @@
 
 										<!-- contacts -->
 										<li>
-											<a href="#about_us">About us</a>
+											<a href="{{route('about_us')}}">About us</a>
 										</li>
 										<li>
 											<a href="{{route('contact_us')}}">Contact us</a>
@@ -258,7 +258,6 @@
 
             @yield('content')
 
-
 			<div id="footer"></div>
 
 
@@ -274,7 +273,7 @@
 									<span class="logo-subtext">  Powering the Future.</span>
 								</span>
 							</a>
-							<a href="#" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
+							<a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
 						</div>
 
 						<div class="col-lg-3 col-md-6 animate" data-animation="fadeInUp">

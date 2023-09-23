@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ContactUsController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -21,6 +22,12 @@ Route::get('/', function () {
 Route::get('/contact-us', function () {
     return view('contactUs');
 })->name('contact_us');
+
+Route::post('/contact-us', [ContactUsController::class, 'contactUs'])->name('contact_us_post');
+
+Route::get('/about-us', function () {
+    return view('aboutUs');
+})->name('about_us');
 
 Route::prefix('/services')->group(function() {
     Route::get('/oil-and-gas-trading', function(){

@@ -21,7 +21,26 @@
                     </p>
                     <div class="divider-50 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
-                    <form class="contact-form" method="post" action="/">
+                    <form class="" method="post" action="{{route('contact_us_post')}}">
+                        @if($errors->any())
+                        @foreach($errors->all() as $error)
+                        <div class="alert alert-danger">
+                            <button type="button" class="close" data-dismiss="alert">×</button>    
+                            <strong>{{ $error }}</strong>
+                        </div>
+                        @endforeach
+                        @endif
+                        @if ($message = Session::get('success'))
+                        <div class="alert alert-success">   
+                            <strong>{{ $message }}</strong>
+                        </div>
+                        @endif
+                        @if ($message = Session::get('error'))
+                        <div class="alert alert-danger"> 
+                            <strong>{{ $message }}</strong>
+                        </div>
+                        @endif
+                        @csrf
                         <div class="row c-mb-10 c-gutter-10">
                             <div class="col-lg-6">
                                 <div class="form-group has-placeholder">
@@ -43,14 +62,14 @@
                                 <div class="form-group has-placeholder">
                                     <label for="name3355553">Phone Number <span class="required">*</span></label>
                                     <i class="fas fa-phone"></i>
-                                    <input type="text" aria-required="true" size="30" value="" name="name" id="name3355553" class="form-control" placeholder="Phone Number">
+                                    <input type="text" aria-required="true" size="30" value="" name="phone" id="name3355553" class="form-control" placeholder="Phone Number">
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="form-group has-placeholder">
                                     <label for="name3355d553">Subject <span class="required">*</span></label>
                                     <i class="fas fa-paperclip"></i>
-                                    <input type="text" aria-required="true" size="30" value="" name="name" id="name3355d553" class="form-control" placeholder="Subject">
+                                    <input type="text" aria-required="true" size="30" value="" name="subject" id="name3355d553" class="form-control" placeholder="Subject">
                                 </div>
                             </div>
                         </div>
