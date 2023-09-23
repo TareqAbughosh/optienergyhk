@@ -85,7 +85,7 @@
                         <div class="row c-mb-10 c-gutter-10">
                             <div class="col-sm-12 mb-0 mt-lg-50 mt-30">
                                 <div class="form-group">
-                                    <input class="btn btn-gradient big-btn" type="submit" value="Send message">
+                                    <input class="btn btn-gradient big-btn" type="submit" value="Send message" id="submitBtnId">
                                 </div>
                             </div>
                         </div>
@@ -185,4 +185,12 @@
         </div>
     </div>
 </section>
+<script>
+    submitBtnElm = document.getElementById("submitBtnId")
+submitBtnElm.addEventListener('click', function(event) { 
+            setTimeout(function () {
+                event.target.disabled = true;
+            }, 0);
+});
+</script>
 @endsection

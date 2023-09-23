@@ -45,6 +45,11 @@ class ContactUsController extends Controller
                         <td>$request->email</td>
                     </tr>
                     <tr>
+                        <td><strong>Phone:</strong></td>
+                        <td>$request->phone</td>
+                    </tr>
+                </tr>
+                    <tr>
                         <td><strong>Subject:</strong></td>
                         <td>$request->subject</td>
                     </tr>
@@ -63,7 +68,6 @@ class ContactUsController extends Controller
             ");
          });
         } catch (\Exception $e){
-            dd($e->getMessage());
             return back()->with('error', 'sorry something went wrong!');
         }
         return back()->with('success', 'Your form has been submitted successfully!');
