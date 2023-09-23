@@ -194,7 +194,7 @@
 									</span>
 								</a>
 							</div>
-							<div class="col-xl-6 col-1 text-right">
+							<div class="col-xl-6 col-1 text-center">
 								<!-- main nav start -->
 								<nav class="top-nav">
 									<ul class="nav sf-menu">
@@ -224,18 +224,6 @@
 											</ul>
 										</li>
 										<!-- eof pages -->
-
-
-										<li>
-											<a href="#clients">Our clients</a>
-										</li>
-										<!-- eof features -->
-
-
-										<!-- blog -->
-										<li>
-											<a href="#partners">Our partners</a>
-										</li>
 										<!-- eof blog -->
 
 										<!-- shop -->
