@@ -200,7 +200,7 @@
 									<ul class="nav sf-menu">
 
 										<li>
-											<a href="#">Trading</a>
+											<a href="{{route('trading')}}">Trading</a>
 										</li>
 										<!-- eof pages -->
 										<!-- eof blog -->

@@ -10,24 +10,39 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h2 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Oil and Gas Trading at Opti Energy
+                        Oil and Gas Trading
+                        <br>
                     </span>
                 </h2>
+                <h4>
+                    Welcome to Opti Energy
+                </h4>
                 <div class="divider-25"></div>
                 <p>
-                    Where Relationships and Market Savvy Meet
-                    In the oil and gas trading world, there's no substitute for the human touch. With Opti
-                    Energy, you're not just getting another service provider; you're gaining a trusted
-                    partner who understands the ins and outs of this complex and volatile market.
-
-                    Core Competencies
+                    At Opti Energy, we are committed to excellence in oil and gas trading services,
+                    delivering value to our clients through innovation, integrity, and expertise. Our
+                    comprehensive range of services ensures that we meet your every need in the
+                    energy trading sector.
                 </p>
+                <div class="divider-60 hidden-below-lg"></div>
+                <div class="divider-30 hidden-above-lg"></div>
+            </div>
+            <div class="col-lg-6 col-12 col-xl-5">
+                <div class="divider-30 hidden-above-lg"></div>
+                <h3 class="special-heading text-sm-left text-center">
+                    <span class="text-capitalize">
+                        1. Trading Expertise:
+                    </span>
+                </h3>
+                <div class="divider-25"></div>
                 <ul class="list-styled">
-                    <li>Relationships</li>
-                    <li>Analysis</li>
-                    <li>Compliance</li>
-                    <li>Logistics</li>
-                    <li>Risk Mitigation</li>
+                    <li>Crude Oil Trading: Our team of experts excels in the trading of crude oil,
+                        leveraging market insights and risk management strategies to maximize
+                        returns.</li>
+                    <li>Natural Gas Trading: We navigate the complexities of natural gas markets,
+                        optimizing supply chains and pricing structures for our clients.</li>
+                    <li>Petroleum Products: From refined fuels to petrochemicals, we facilitate
+                        efficient trade transactions to meet your specific product requirements.</li>
                 </ul>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -36,14 +51,18 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Experience Makes the Difference
+                        2. Risk Management:
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>With a team that has over 15 years of combined experience in the industry, we're not
-                    just traders. We're seasoned professionals who know how to read market signals
-                    and navigate the complexities of oil and gas trading.
-                </p>
+                <ul class="list-styled">
+                    <li>Market Analysis: Our seasoned analysts provide real-time market insights in
+                        the oil and gas sector, empowering you to make informed decisions and
+                        mitigate risks.</li>
+                    <li>Risk Mitigation Strategies: We develop customized risk mitigation strategies
+                        tailored to your unique exposure and objectives in the physical oil and gas
+                        trading markets.</li>
+                </ul>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
             </div>
@@ -51,14 +70,17 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Making Informed Decisions
+                        3. Logistics and Transportation:
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>While we may not offer a tech platform, what we do provide is deep market insight
-                    based on years of experience. We'll guide you through each transaction, ensuring
-                    that you make the best choices for your business needs.
-                </p>
+                <ul class="list-styled">
+                    <li>Global Network: Leveraging our extensive network, we ensure the seamless
+                        movement of energy resources, reducing costs and optimizing delivery
+                        schedules.</li>
+                    <li>Storage Solutions: We offer strategic storage options, guaranteeing security
+                        and accessibility for your energy assets.</li>
+                </ul>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
             </div>
@@ -66,14 +88,17 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Managing Risks Effectively
+                        4. Regulatory Compliance:
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>Volatility is the name of the game in oil and gas trading, and managing that risk is
-                    crucial. Our team's deep understanding of market trends, price fluctuations, and
-                    geopolitical impacts allows us to navigate these waters skillfully.
-                </p>
+                <ul class="list-styled">
+                    <li>Legal Expertise: Our legal team ensures full compliance with Hong Kong and
+                        international energy trading regulations, safeguarding your operations.</li>
+                    <li>Environmental Responsibility: We are committed to sustainable energy
+                        practices, adhering to environmental standards and promoting responsible
+                        energy trading.</li>
+                </ul>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
             </div>
@@ -81,44 +106,18 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Where Global Meets Local
+                        5. Client-Centric Approach:
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>With key locations in Dubai and Turkey, we've got a global reach that's
-                    complemented by local expertise. We understand how to source the best oil and gas
-                    products from around the world, and we're well-versed in the unique characteristics
-                    of different regional markets.
-                </p>
-                <div class="divider-60 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-            </div>
-            <div class="col-lg-6 col-12 col-xl-5">
-                <div class="divider-30 hidden-above-lg"></div>
-                <h3 class="special-heading text-sm-left text-center">
-                    <span class="text-capitalize">
-                        Transparency and Integrity
-                    </span>
-                </h3>
-                <div class="divider-25"></div>
-                <p>In an industry where regulations can be stringent, and ethical practices are vital, we
-                    pride ourselves on conducting business with the utmost transparency and integrity.
-                    We believe in building relationships that last, based on mutual trust and respect.
-                </p>
-                <div class="divider-60 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-            </div>
-            <div class="col-lg-6 col-12 col-xl-5">
-                <div class="divider-30 hidden-above-lg"></div>
-                <h3 class="special-heading text-sm-left text-center">
-                    <span class="text-capitalize">
-                        Let's Talk
-                    </span>
-                </h3>
-                <div class="divider-25"></div>
-                <p>Interested in making your oil and gas trading operations more efficient and
-                    relationship-focused? Reach out to us for a one-on-one consultation and discover
-                    how Opti Energy can make a difference in your business.
+
+                <ul class="list-styled">
+                    <li>Tailored Solutions: We understand that every client has unique needs. Our
+                        team works closely with you to develop personalized solutions that align with
+                        your goals.</li>
+                    <li>Customer Support: Our dedicated customer support team is available around
+                        the clock to address your inquiries and concerns promptly.</li>
+                </ul>
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>

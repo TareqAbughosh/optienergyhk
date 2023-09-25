@@ -169,7 +169,7 @@
                 <div class="divider-40 hidden-above-lg"></div>
                 <div class="button-container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6 animate" data-animation="slideRight" data-delay="150">
                             <div class="card border-0">
                                 <div class="glass-btn amber-btn">
                                     <i class="fas fa-chart-bar fa-2x"></i>
@@ -180,7 +180,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 animate" data-animation="slideLeft" data-delay="150">
                             <div class="card border-0">
                                 <div class="glass-btn amber-btn">
                                     <i class="fa fa-book fa-2x"></i>
@@ -191,7 +191,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 animate" data-animation="slideRight" data-delay="150">
                             <div class="card border-0">
                                 <div class="glass-btn amber-btn">
                                     <i class="fa fa-handshake fa-2x"></i>
@@ -203,7 +203,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 animate" data-animation="slideLeft" data-delay="150">
                             <div class="card border-0">
                                 <div class="glass-btn amber-btn">
                                     <i class="fa fa-tasks fa-2x"></i>
@@ -324,35 +324,35 @@
             <div class="col-12">
                 <div class="divider-30 hidden-above-lg"></div>
                 <div class="row isotope-wrapper masonry-layout images-grid c-mb-30 c-gutter-30">
-                    <div class="col-lg-4  col-sm-6  ">
+                    <div class="col-lg-4  col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
                         <a href="https://www.lubrico.com.tr/en/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
                                 <img src="/images/partners/lubrico.svg" alt="">
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6  ">
+                    <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
                         <a href="https://www.legendbrokers.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
                                 <img src="/images/partners/legendbrokers.png" alt="">
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6  ">
+                    <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
                         <a href="https://yavuzkiymetlimadenler.com" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
                                 <img src="/images/partners/Yavuz.png" alt="">
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6  ">
+                    <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
                         <a href="https://www.enrocks.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
                                 <img src="/images/partners/enrocks.svg" alt="">
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6  ">
+                    <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
                         <a href="https://www.hadefpartners.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
                                 <img src="/images/partners/hadef-and-partners.png" alt="">
@@ -366,10 +366,10 @@
     </div>
 </section>
 
-<section class="ls map-section s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-160 s-pb-lg-130 s-pb-md-90 s-pb-60" id="about_us">
+<section class="ls map-section s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-160 s-pb-lg-130 s-pb-md-90 s-pb-60 border-top" id="about_us">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-6 animate" data-animation="slideRight" data-delay="150">
                 <h2 class="special-heading">
                     <span class="text-capitalize">
                         ABOUT US
@@ -440,7 +440,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 animate" data-animation="slideLeft" data-delay="150">
                 <div class="divider-40 hidden-above-lg"></div>
                 <div id="map-vector"></div>
             </div>

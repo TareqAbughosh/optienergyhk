@@ -30,23 +30,12 @@ Route::get('/about-us', function () {
 })->name('about_us');
 
 Route::prefix('/services')->group(function() {
-    Route::get('/oil-and-gas-trading', function(){
+    Route::get('/trading', function(){
         return view('trading');
-    })->name('oilTrading');
+    })->name('trading');
+});
 
-    Route::get('/renewable-energy-equipment-trading', function(){
-        return view('renewable');
-    })->name('renewableTrading');
 
-    Route::get('/business-advisory-services', function(){
-        return view('businessAdvisory');
-    })->name('businessadv');
-
-    Route::get('/renewable-energy-development-consultation', function(){
-        return view('development');
-    })->name('renewableEnergy');
-
-    Route::get('/escrow-services', function(){
-        return view('escrow');
-    })->name('escrow');
+Route::get('test', function(){
+    return view('test');
 });
