@@ -1710,7 +1710,7 @@
         /////////
 
         var offices = [
-            {latLng: [25.276987,55.296249], name: "UAE"},
+            {latLng: [22.302711,114.177216], name: "Hong Kong"},
             // {latLng: [38.356869,38.309669], name: "Turkey"},
         ];
 
