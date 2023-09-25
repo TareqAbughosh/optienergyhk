@@ -187,7 +187,7 @@
 						<div class="row d-flex align-items-center justify-content-center">
 							<div class="col-xl-3 col-md-4 col-12 text-center">
 								<a href="/" class="logo">
-									<img src="/images/logo-white.png" alt="">
+									<img src="/images/logo.png" alt="">
 									<span class="d-flex flex-column">
 										<span class="logo-text color-darkgrey"><strong>Opti Energy</strong></span>
 										<span class="logo-subtext"> Powering the Future.</span>
@@ -200,28 +200,7 @@
 									<ul class="nav sf-menu">
 
 										<li>
-											<a>Services</a>
-											<ul>
-												<li>
-													<a href="{{route('oilTrading')}}">Oil and Gas Trading</a>
-												</li>
-
-												<li>
-													<a href="{{route('renewableTrading')}}">Renewable Energy Equipment Trading</a>
-												</li>
-												
-												<li>
-													<a href="{{route('businessadv')}}">Business Advisory Services</a>
-												</li>
-												
-												<li>
-													<a href="{{route('renewableEnergy')}}"> Renewable Energy Development & Consultation </a>
-												</li>
-									
-												<li>
-													<a href="{{route('escrow')}}"> Escrow services </a>
-												</li>
-											</ul>
+											<a href="#">Trading</a>
 										</li>
 										<!-- eof pages -->
 										<!-- eof blog -->
@@ -230,6 +209,9 @@
 										<!-- eof shop -->
 
 										<!-- contacts -->
+										<li>
+											<a href="{{route('about_us')}}">Our Approach</a>
+										</li>
 										<li>
 											<a href="{{route('about_us')}}">About us</a>
 										</li>
@@ -267,7 +249,7 @@
 
 						<div class="col-lg-4 col-md-6  animate" data-animation="fadeInUp">
 							<a href="/" class="logo">
-								<img src="images/logo-white.png" alt="">
+								<img src="images/logo.png" alt="">
 								<span class="d-flex flex-column">
 									<span class="logo-text color-darkgrey">Opti Energy</span>
 									<span class="logo-subtext">  Powering the Future.</span>

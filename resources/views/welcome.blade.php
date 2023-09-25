@@ -1,4 +1,73 @@
 @extends('layouts.app')
+<style>
+    .button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.glass-btn {
+  width: 100px;
+  height: 100px;
+  background-color: #fafafa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 7px;
+  margin-left: 1em;
+  margin-right: 1em;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.glass-btn.blue-btn {
+  box-shadow: 0px 20px 20px -17px rgba(0, 111, 255, 0.53);
+}
+.glass-btn.blue-btn:hover {
+  box-shadow: 0px 20px 35px -16px rgba(0, 111, 255, 0.65);
+}
+.glass-btn.blue-btn .content {
+  font-size: 4em;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(to right, #006fff, #00acff 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0px 10px 37px rgba(0, 111, 255, 0.8);
+}
+.glass-btn.red-btn {
+  box-shadow: 0px 20px 20px -17px rgba(255, 16, 39, 0.5);
+}
+.glass-btn.red-btn:hover {
+  box-shadow: 0px 20px 35px -16px rgba(255, 16, 39, 0.57);
+}
+.glass-btn.red-btn .content {
+  font-size: 4em;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(to right, #ff1027, #ff4f06 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0px 10px 37px rgba(255, 16, 39, 0.6);
+}
+.glass-btn.amber-btn {
+  box-shadow: 0px 20px 20px -17px rgba(255, 159, 16, 0.53);
+}
+.glass-btn.amber-btn:hover {
+  box-shadow: 0px 20px 35px -16px rgba(255, 159, 16, 0.6);
+}
+.glass-btn.amber-btn .content {
+  font-size: 4em;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(to right, #ff8d00, #f7ad07 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0px 10px 37px rgba(255, 94, 16, 0.7);
+}
+.glass-btn:hover {
+  background-color: whitesmoke;
+  transform: translateY(-5px);
+  transition: all 0.3s;
+}
+</style>
 @section('content')
 <section class="page_slider">
     <div class="flexslider">
@@ -11,9 +80,9 @@
                             <div class="intro_layers_wrapper">
                                 <div class="intro_layers">
                                     <div class="intro_layer">
-                                        <h6 class="intro_before_featured_word">Our Mission</h6>
+                                        <h6 class="intro_before_featured_word">Cruide Oil Trading</h6>
                                         <h2 class="text-capitalize intro_featured_word">
-                                            Deliver a comprehensive suite of reliable and efficient energy services.
+                                            Maximize returns through our expertise of market leverage and risk management.
                                         </h2>
                                     </div>
                                 </div> <!-- eof .intro_layers -->
@@ -30,9 +99,9 @@
                             <div class="intro_layers_wrapper">
                                 <div class="intro_layers">
                                     <div class="intro_layer">
-                                        <h6 class="intro_before_featured_word">Our Vision</h6>
+                                        <h6 class="intro_before_featured_word">Natural Gas Trading</h6>
                                         <h2 class="text-capitalize intro_featured_word">
-                                            Global nexus of innovative and sustainable energy solutions.
+                                            Competitve pricing through our complix navigation of the supply chain.
                                         </h2>
                                     </div>
                                 </div> <!-- eof .intro_layers -->
@@ -49,9 +118,9 @@
                             <div class="intro_layers_wrapper">
                                 <div class="intro_layers">
                                     <div class="intro_layer">
-                                        <h6 class="intro_before_featured_word">Our goals</h6>
+                                        <h6 class="intro_before_featured_word">Petroleum Products</h6>
                                         <h2 class="text-capitalize intro_featured_word">
-                                            Become a global leader in integrated energy solutions.
+                                            We facilitate all refined fuels and petrochemicals products.
                                         </h2>
                                     </div>
                                 </div> <!-- eof .intro_layers -->
@@ -66,287 +135,150 @@
     </div> <!-- eof flexslider -->
 </section>
 
+<section class="ls map-section s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-160 s-pb-lg-130 s-pb-md-90 s-pb-60" id="about_us">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <h2 class="special-heading">
+                    <span class="text-capitalize">
+                        Our Approach
+                    </span>
+                </h2>
+                <div class="divider-45 hidden-below-lg"></div>
+                <div class="divider-30 hidden-above-lg"></div>
+                <p class="special-heading" style="letter-spacing: 3px;">
+                    <span>
+                        At Opti Energy, we adopt a global and agile approach to fulfill the energy
+                        requirements of our partners worldwide. This is made possible through our strong
+                        and strategic partnerships in the industry and our streamlined supply chain
+                        operations. We pride ourselves on supporting suppliers in maintaining uninterrupted
+                        production operations by faithfully honoring our contractual upliftment commitments.
+                    </span>
+                </p>
+                <div class="divider-45 hidden-below-lg"></div>
+                <div class="divider-30 hidden-above-lg"></div>
+
+            </div>
+            <div class="col-lg-6">
+                <div class="divider-40 hidden-above-lg"></div>
+                <div class="button-container">
+  
+                    <div class="glass-btn amber-btn">
+                      <!--<div class="content">
+                        h
+                      </div> -->
+                      <i class="fa fa-book fa-2x"></i>
+                    </div>
+                  
+                    <div class="glass-btn red-btn">
+                      <!-- <div class="content">
+                        e
+                      </div> -->
+                      <img src="https://i.postimg.cc/LstJ4Hhf/youtube.png" alt="youtube" style="width: 6em;">
+                    </div>
+                    
+                    <div class="glass-btn amber-btn">
+                      <!-- <div class="content">
+                        y
+                      </div> -->
+                      <img src="https://i.postimg.cc/tgQ1H1Rp/soundcloud.png" alt="soundcloud" style="width: 6em;">
+                    </div>
+                  
+                  </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="ds text-sm-left text-center container-px-0 c-gutter-0">
     <div class="container-fluid">
-        <div class="row service-v2 justify-content-center">
+        <div class="row service-v2">
             <div class="col-sm-6 col-md-4 col-xl-2   ">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="#">
-                        <div class="icon-styled  fs-50" >
-                            <i class="fas fa-handshake"style="width: inherit;"></i>
+                    <a class="link-icon" href="service-single.html">
+                        <div class="icon-styled  fs-50">
+                            <i class="ico ico-refinery"></i>
                         </div>
                     </a>
-                    <a href="#">
+                    <a href="service-single.html">
                         <h5>
-                            Escrow
+                            Thermal Power
                         </h5>
                     </a>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4 col-xl-2   ">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="#">
-                        <div class="icon-styled  fs-50" >
-                            <i class="fas fa-handshake"style="width: inherit;"></i>
-                        </div>
-                    </a>
-                    <a href="#">
-                        <h5>
-                            Consultation
-                        </h5>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
-                <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="#">
+                    <a class="link-icon" href="service-single.html">
                         <div class="icon-styled  fs-50">
                             <i class="ico ico-tank"></i>
                         </div>
                     </a>
-                    <a href="#">
+                    <a href="service-single.html">
                         <h5>
-                            Gas Trading
+                            Oil Platform
                         </h5>
                     </a>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4 col-xl-2   ">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="#">
+                    <a class="link-icon" href="service-single.html">
                         <div class="icon-styled  fs-50">
                             <i class="ico ico-oil"></i>
                         </div>
                     </a>
-                    <a href="#">
+                    <a href="service-single.html">
                         <h5>
-                            Oil Trading
+                            Gas Flaring
                         </h5>
                     </a>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4 col-xl-2   ">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="#">
-                        <div class="icon-styled fs-50">
-                            <i class="fas fa-solar-panel" style="width: inherit;"></i>
+                    <a class="link-icon" href="service-single.html">
+                        <div class="icon-styled  fs-50">
+                            <i class="ico ico-extraction"></i>
                         </div>
                     </a>
-                    <a href="#">
+                    <a href="service-single.html">
                         <h5>
-                            Green Energy Trading.
+                            Oil Pump
                         </h5>
                     </a>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4 col-xl-2   ">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="#">
-                        <div class="icon-styled fs-50">
-                            <i class="fas fa-solar-panel" style="width: inherit;"></i>
+                    <a class="link-icon" href="service-single.html">
+                        <div class="icon-styled  fs-50">
+                            <i class="ico ico-oil-tanker"></i>
                         </div>
                     </a>
-                    <a href="#">
+                    <a href="service-single.html">
                         <h5>
-                            Solar development.
+                            Oil Refinaery
                         </h5>
                     </a>
                 </div>
             </div>
-           
-        </div>
-    </div>
-</section>
-
-{{-- <section class="ls main-testimonial s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-lg-3 text-center">
-                <h2 class="special-heading text-center">
-                    <span class="text-capitalize">
-                        welcome!
-                    </span>
-                </h2>
-                <div class="divider-30"></div>
-            </div>
-            <div class="col-12 col-lg-6 text-center">
-                <div class="divider-35 hidden-above-lg"></div>
-                <div class="divider--5"></div>
-                <p class="excerpt">
-                    Interested in working with us?
-                        LET'S TALK AND GET STARTED
-                </p>
-                <p>       
-                    MAIL TO OUR HR DEPARTMENT
-                    Info@OptiEnergies.com
-                    <br>
-                    OUR CONTACT NUMBER
-                    +971 (58) 964 6615
-                    <br>
-                    & What's you will get :
-                    Excellent Customer Support
-                    Project Consulting by Experts
-                    On-Time Project Delivery
-                    <br>
-                    Address(UAE): HQ office AG-PF-356, JLT, DXB, UAE. And we also have operational offices in Turkey, contact us for more info!
-                </p>
-            </div>
-        </div>
-    </div>
-</section> --}}
-
-<section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center container-px-0" id="services">
-    <div class="cover-image s-cover-left">
-        <img src="/images/services/escrow.jpeg" alt="01">
-    </div>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-xs-12 col-12 col-lg-6">
-
-            </div>
-            <div class="col-xs-12 col-12 col-lg-6">
-                <div class="content-center">
-                    <h2 class="special-heading numeric text-sm-left text-center">
-                        <span class="text-capitalize">
-                            Escrow Service
-                        </span>
-                    </h2>
-                    <div class="divider-45 hidden-below-lg"></div>
-                    <div class="divider-30 hidden-above-lg"></div>
-                    <div class="divider-45 hidden-below-lg"></div>
-                    <div class="divider-30 hidden-above-lg"></div>
-                    <ul class="list-styled">
-                        <li>Commodity Transactions</li>
-                        <li>Energy Finance transactions.</li>
-                    </ul>
-                    <div class="divider--10"></div>
+            <div class="col-sm-6 col-md-4 col-xl-2   ">
+                <div class="icon-box service-single with-icon layout2 ds text-center">
+                    <a class="link-icon" href="service-single.html">
+                        <div class="icon-styled  fs-50">
+                            <i class="ico ico-pipe"></i>
+                        </div>
+                    </a>
+                    <a href="service-single.html">
+                        <h5>
+                            Factory
+                        </h5>
+                    </a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
-<section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center container-px-0">
-    <div class="cover-image s-cover-right">
-        <img src="/images/services/Advisory.jpeg" alt="01">
-    </div>
-
-    <div class="container-fluid">
-        <div class="row">
-
-            <div class="col-xs-12 col-12 col-lg-6">
-                <div class="content-center">
-                    <h2 class="special-heading numeric text-sm-left text-center">
-                        <span class="text-capitalize">
-                            Advisory
-                        </span>
-                    </h2>
-                    <div class="divider-45 hidden-below-lg"></div>
-                    <div class="divider-30 hidden-above-lg"></div>
-                    <div class="divider-45 hidden-below-lg"></div>
-                    <div class="divider-30 hidden-above-lg"></div>
-                    <ul class="list-styled">
-                        <li>Renewable Project Development..</li>
-                        <li>Energy Consultancy.</li>
-                        <li>Business Advisory.</li>
-                    </ul>
-                    <div class="divider--10"></div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-12 col-lg-6">
-
-
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center container-px-0">
-    <div class="cover-image s-cover-left">
-        {{-- <a href="/images/services/service3.jpg" class="photoswipe-link side-video" data-width="800" data-height="800" data-iframe="https://www.youtube.com/embed/GhthHC0s38A"></a> --}}
-        <img src="/images/services/commodity.jpeg" alt="01">
-    </div>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-xs-12 col-12 col-lg-6">
-
-            </div>
-            <div class="col-xs-12 col-12 col-lg-6">
-                <div class="content-center">
-                    <h2 class="special-heading numeric text-sm-left text-center">
-                        <span class="text-capitalize">
-                            Trading
-                        </span>
-                    </h2>
-                    <div class="divider-45 hidden-below-lg"></div>
-                    <div class="divider-30 hidden-above-lg"></div>
-                    <ul class="list-styled">
-                        <li>Renewable energy.</li>
-                        <li>Oil and Gas.</li>
-                    </ul>
-                    <div class="divider--10"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="ds s-overlay portfolio-section  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-center" id="clients">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h2 class="special-heading text-center">
-                    <span class="text-capitalize">
-                        Some Of Our clients
-                    </span>
-                </h2>
-                <div class="divider-50 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-                <div class="row">
-                    <!-- Card 1 -->
-                    <div class="col-md-6 mb-4">
-                        <div class="card" style="background-color: inherit;
-                        border: 6px solid rgba(0,0,0,.125);">
-                            <a href="https://www.rofspc.com/" target="_blank">
-                            <img src="/images/gallery/full/rof_logo2.png" class="card-img-top" alt="Client 1">
-                            </a>
-                        </div>
-                    </div>
-        
-                    <!-- Card 2 -->
-                    <div class="col-md-6 mb-4">
-                        <div class="card" style="padding-bottom: 34px; background-color: inherit;
-                        border: 6px solid rgba(0,0,0,.125);">
-                            <a href="https://www.renovo-energy.com/" target="_blank">
-                            <img src="/images/gallery/full/renovo.png" class="card-img-top" alt="Client 2">
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Card 3 -->
-                    <div class="col-md-6 mb-4">
-                        <div class="card" style="background-color: inherit;
-                        border: 6px solid rgba(0,0,0,.125);">
-                            <a href="https://jarleneinvestments.com/" target="_blank">
-                            <img src="/images/gallery/full/jarlen.png" class="card-img-top" alt="Client 3">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6 mb-4">
-                        <div class="card" style="background-color: inherit;
-                        border: 6px solid rgba(0,0,0,.125); padding-bottom: 33px;">
-                            <a href="https://recom-tech.com/" target="_blank">
-                            <img src="/images/gallery/full/RECOM_LOGO-1024x277.png" class="card-img-top" alt="Client 3">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <section class="ls  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60 text-sm-left text-center c-gutter-60" id="partners">
     <div class="container">
         <div class="row">
@@ -402,108 +334,6 @@
     </div>
 </section>
 
-{{-- <section id="team" class="ls ms s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60" style="height: 50vh">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-
-                <h2 class="special-heading text-center">
-                    <span class="text-capitalize">
-                        Our offices
-                    </span>
-                </h2>
-                <div class="divider-line bg-maincolor text-center"></div>
-                <div class="fw-divider-space divider-25"></div>
-                <p class="special-heading text-center">
-                    <span>
-                        Meet our team at:
-                    </span>
-                </p>
-                <div class="divider-35 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-                <div class="owl-carousel team-carousel container-fluid d-flex justify-content-center align-items-center">
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="/images/team/01.png" alt="team">
-                            <div class="media-links">
-                                <span class="social-icons">
-                                    <a href="#" class="fab fa-facebook-f" title="facebook"></a>
-                                    <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
-                                    <a href="#" class="fab fa-instagram" title="instagram"></a>
-                                </span>
-                            </div>
-
-                        </div>
-                        <div class="item-content">
-
-                            <h6>
-                                <a href="#">Management team in</a>
-                            </h6>
-                            <p class="small-text">
-                                Dubai
-                            </p>
-                        </div>
-                    </div>
-
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <div class="media-links">
-                                <span class="social-icons">
-                                    <a href="#" class="fab fa-facebook-f" title="facebook"></a>
-                                    <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
-                                    <a href="#" class="fab fa-instagram" title="instagram"></a>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="item-content">
-
-                            <h6>
-                                <a href="team-single.html">Operations team in</a>
-                            </h6>
-                            <p class="small-text">
-                                Turkey
-                            </p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <div class="mt--20"></div>
-    </div>
-</section> --}}
-
-{{-- <section class="ds call-to-action text-center  s-py-xl-160 s-py-lg-130 s-py-md-90 s-py-60">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h2 class="special-heading text-center">
-                    <span class="text-capitalize big">
-                        Crude Oil
-                    </span>
-                </h2>
-                <div class="divider-45 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-                <p class="excerpt">
-                    Acquire Premium Quality Marine Fuel Oil and
-                    gasoil from One of the Leading Oil Trading Companies in UAE
-                </p>
-                <p style="background: rgba(128, 128, 128, 0.5);">
-                    The ever-increasing demand for marine fuel oil and gasoil in the shipping world has quickly become avid and insatiable. In 2017, Legend Brokers limited was established to provide complete and top-tier solutions and products to meet this growing strain and bridge the gap between the supply and demand of high-quality bunkers in the leading mega industries of the world.
-
-
-As a global marine fuel and gasoil trading company rooted in one of the leading maritime hubs in the world, Legend Brokers limited has built an impeccable reputation for providing efficient, powerful, and environment-friendly bunkers to all the major ports. We invest our technical and domestic expertise, years’ worth of experience, and our comprehensive knowledge in the field to deliver the top high-value bunkers at the best price across world.
-
-
-We understand the core values and responsibilities of a commodity supplier and therefore we do not make any compromises on quality, deliverance, and customer satisfaction.
-                </p>
-            </div>
-        </div>
-    </div>
-</section> --}}
-
 <section class="ls map-section s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-160 s-pb-lg-130 s-pb-md-90 s-pb-60" id="about_us">
     <div class="container">
         <div class="row">
@@ -517,9 +347,10 @@ We understand the core values and responsibilities of a commodity supplier and t
                 <div class="divider-30 hidden-above-lg"></div>
                 <p class="special-heading">
                     <span>
-                        Opti Energy is based in the business-centric locale of Dubai, United Arab Emirates. We offer a diverse suite of services across the energy
-spectrum, from renewable energy solutions to crude oil trading.
-Leveraging our team's extensive expertise, we are committed to fostering sustainable and efficient practices in the energy sector.
+                        At Opti Energy, we are more than just an energy trading company; we are a dynamic
+                        force driving innovation and excellence in the global energy marketplace. With a
+                        distinguished reputation and a commitment to unwavering integrity, we have
+                        established ourselves as a trusted partner in the ever-evolving energy industry.
                     </span>
                 </p>
                 <div class="divider-45 hidden-below-lg"></div>
@@ -527,7 +358,7 @@ Leveraging our team's extensive expertise, we are committed to fostering sustain
                 <div class="d-flex flex-column flex-sm-row justify-content-between flex-wrap ">
                     <div class="simple-counter">
                         <h3 class="special-heading counter-wrap">
-                            <span class="counter color-main thin big" data-from="0" data-to="15" data-speed="1800">0</span>
+                            <span class="counter color-main thin big" data-from="0" data-to="20" data-speed="1800">0</span>
                         </h3>
                         <p class="special-heading bold color-darkgrey">
                             <span>
@@ -561,7 +392,7 @@ Leveraging our team's extensive expertise, we are committed to fostering sustain
                     <div class="simple-counter">
                         <h3 class="special-heading counter-wrap">
                             <span class="counter-add thin color-main big">+</span>
-                            <span class="counter color-main thin big" data-from="0" data-to="30" data-speed="1800">0</span>
+                            <span class="counter color-main thin big" data-from="0" data-to="20" data-speed="1800">0</span>
                         </h3>
                         <p class="special-heading bold color-darkgrey">
                             <span>
