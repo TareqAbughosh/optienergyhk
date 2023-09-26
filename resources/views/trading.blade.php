@@ -4,17 +4,17 @@
 <section class="ls ms text-sm-left text-center s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-280 s-pb-lg-250 s-pb-md-90 s-pb-60 c-gutter-60">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-xl-10">
+            <div class="col-12 col-xl-10 animate" data-animation="fadeInLeft" data-delay="150">
                 <img class="rounded" src="/images/services/service1.jpg" alt="">
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
-                <h2 class="special-heading text-sm-left text-center">
+                <h2 class="special-heading text-sm text-center">
                     <span class="text-capitalize">
                         Oil and Gas Trading
                         <br>
                     </span>
                 </h2>
-                <h4>
+                <h4 class="text-center">
                     Welcome to Opti Energy
                 </h4>
                 <div class="divider-25"></div>
@@ -27,151 +27,118 @@
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
             </div>
-            <div class="col-lg-6 col-12 col-xl-5">
-                <div class="divider-30 hidden-above-lg"></div>
-                <h3 class="special-heading text-sm-left text-center">
-                    <span class="text-capitalize">
-                        1. Trading Expertise:
-                    </span>
-                </h3>
-                <div class="divider-25"></div>
-                <ul class="list-styled">
-                    <li>Crude Oil Trading: Our team of experts excels in the trading of crude oil,
-                        leveraging market insights and risk management strategies to maximize
-                        returns.</li>
-                    <li>Natural Gas Trading: We navigate the complexities of natural gas markets,
-                        optimizing supply chains and pricing structures for our clients.</li>
-                    <li>Petroleum Products: From refined fuels to petrochemicals, we facilitate
-                        efficient trade transactions to meet your specific product requirements.</li>
-                </ul>
-                <div class="divider-60 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-            </div>
-            <div class="col-lg-6 col-12 col-xl-5">
-                <div class="divider-30 hidden-above-lg"></div>
-                <h3 class="special-heading text-sm-left text-center">
-                    <span class="text-capitalize">
-                        2. Risk Management:
-                    </span>
-                </h3>
-                <div class="divider-25"></div>
-                <ul class="list-styled">
-                    <li>Market Analysis: Our seasoned analysts provide real-time market insights in
-                        the oil and gas sector, empowering you to make informed decisions and
-                        mitigate risks.</li>
-                    <li>Risk Mitigation Strategies: We develop customized risk mitigation strategies
-                        tailored to your unique exposure and objectives in the physical oil and gas
-                        trading markets.</li>
-                </ul>
-                <div class="divider-60 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-            </div>
-            <div class="col-lg-6 col-12 col-xl-5">
-                <div class="divider-30 hidden-above-lg"></div>
-                <h3 class="special-heading text-sm-left text-center">
-                    <span class="text-capitalize">
-                        3. Logistics and Transportation:
-                    </span>
-                </h3>
-                <div class="divider-25"></div>
-                <ul class="list-styled">
-                    <li>Global Network: Leveraging our extensive network, we ensure the seamless
-                        movement of energy resources, reducing costs and optimizing delivery
-                        schedules.</li>
-                    <li>Storage Solutions: We offer strategic storage options, guaranteeing security
-                        and accessibility for your energy assets.</li>
-                </ul>
-                <div class="divider-60 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-            </div>
-            <div class="col-lg-6 col-12 col-xl-5">
-                <div class="divider-30 hidden-above-lg"></div>
-                <h3 class="special-heading text-sm-left text-center">
-                    <span class="text-capitalize">
-                        4. Regulatory Compliance:
-                    </span>
-                </h3>
-                <div class="divider-25"></div>
-                <ul class="list-styled">
-                    <li>Legal Expertise: Our legal team ensures full compliance with Hong Kong and
-                        international energy trading regulations, safeguarding your operations.</li>
-                    <li>Environmental Responsibility: We are committed to sustainable energy
-                        practices, adhering to environmental standards and promoting responsible
-                        energy trading.</li>
-                </ul>
-                <div class="divider-60 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-            </div>
-            <div class="col-lg-6 col-12 col-xl-5">
-                <div class="divider-30 hidden-above-lg"></div>
-                <h3 class="special-heading text-sm-left text-center">
-                    <span class="text-capitalize">
-                        5. Client-Centric Approach:
-                    </span>
-                </h3>
-                <div class="divider-25"></div>
-
-                <ul class="list-styled">
-                    <li>Tailored Solutions: We understand that every client has unique needs. Our
-                        team works closely with you to develop personalized solutions that align with
-                        your goals.</li>
-                    <li>Customer Support: Our dedicated customer support team is available around
-                        the clock to address your inquiries and concerns promptly.</li>
-                </ul>
-                </p>
-                <div class="divider-60 hidden-below-lg"></div>
-                <div class="divider-30 hidden-above-lg"></div>
-            </div>
-        </div>
-        
-            {{-- <div class="col-12 col-xl-10 offset-xl-1">
-                <div id="accordion01" role="tablist">
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse01_header">
-                            <h5>
-                                <a data-toggle="collapse" href="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                    How Do We Conduct Shipping?
-                                </a>
-                            </h5>
-                        </div>
-
-                        <div id="collapse01" class="collapse show" role="tabpanel" aria-labelledby="collapse01_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="row isotope-wrapper masonry-layout c-gutter-30 c-mb-30">
+                                <div class="col-xl-4 col-md-6 animate" data-animation="stretchLeft" data-delay="150">
+                                    <div class="icon-box service-single with-icon rounded  ls big-padding text-center">
+                                        <a class="link-icon" href="#">
+                                            <div class="icon-styled bg-icon grey-bg color-darkgrey round fs-30">
+                                                <i class="ico ico-pipe"></i>
+                                            </div>
+                                        </a>
+                                        <a href="#">
+                                            <h5 class="">
+                                                Oil Refining
+                                            </h5>
+                                        </a>
+            
+                                        <p>We work with a network of reputable Refineries around the globe</p>
+                                        
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-md-6 animate" data-animation="fadeInUp" data-delay="150">
+                                    <div class="icon-box service-single with-icon rounded ls big-padding text-center">
+                                        <a class="link-icon" href="#">
+                                            <div class="icon-styled bg-icon grey-bg color-darkgrey round fs-30">
+                                                <i class="ico ico-electric-factory"></i>
+                                            </div>
+                                        </a>
+                                        <a href="#">
+                                            <h5 class="">
+                                                Petrochemicals
+                                            </h5>
+                                        </a>
+            
+                                        <p>A wide spectrum of products derived from hydrocarbons. We specialize in Trading essential chemical compounds used in various industries.</p>
+                                        
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-md-6 animate" data-animation="stretchLeft" data-delay="150">
+                                    <div class="icon-box service-single with-icon rounded  ls big-padding text-center">
+                                        <a class="link-icon" href="#">
+                                            <div class="icon-styled bg-icon grey-bg color-darkgrey round fs-30">
+                                                <i class="ico ico-oil"></i>
+                                            </div>
+                                        </a>
+                                        <a href="#">
+                                            <h5 class="">
+                                                Gas Processing
+                                            </h5>
+                                        </a>
+            
+                                        <p>We ensure the delivery of clean and market-ready natural gas products.</p>
+                                        
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-md-6  animate" data-animation="stretchLeft" data-delay="150">
+                                    <div class="icon-box service-single with-icon rounded  ls big-padding text-center">
+                                        <a class="link-icon" href="#">
+                                            <div class="icon-styled bg-icon grey-bg color-darkgrey round fs-30">
+                                                <i class="ico ico-power-plant"></i>
+                                            </div>
+                                        </a>
+                                        <a href="#">
+                                            <h5 class="">
+                                                Gas Trading
+                                            </h5>
+                                        </a>
+            
+                                        <p>We navigate the intricacies of gas markets, providing efficient and strategic solutions to meet your specific gas trading needs. </p>
+                                        
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-md-6  animate" data-animation="stretchRight" data-delay="150">
+                                    <div class="icon-box service-single with-icon rounded  ls big-padding text-center">
+                                        <a class="link-icon" href="#">
+                                            <div class="icon-styled bg-icon grey-bg color-darkgrey round fs-30">
+                                                <i class="ico ico-water-factory"></i>
+                                            </div>
+                                        </a>
+                                        <a href="#">
+                                            <h5 class="">
+                                                Oil Trading
+                                            </h5>
+                                        </a>
+            
+                                        <p>We offer a streamlined path to connect your products with the right markets.</p>
+                                        
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-md-6  animate" data-animation="fadeInDown" data-delay="150">
+                                    <div class="icon-box service-single with-icon rounded  ls big-padding text-center">
+                                        <a class="link-icon" href="#">
+                                            <div class="icon-styled bg-icon grey-bg color-darkgrey round fs-30">
+                                                <i class="ico ico-refinery"></i>
+                                            </div>
+                                        </a>
+                                        <a href="#">
+                                            <h5 class="">
+                                                Sales Channel
+                                            </h5>
+                                        </a>
+            
+                                        <p>We facilitate transactions in the dynamic crude oil market with efficiency, transparency and reliability.</p>
+                                        
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse02_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                    Can I Pay After Receiving An Order?
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse03_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                    Contacting The Sales Department
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse03" class="collapse" role="tabpanel" aria-labelledby="collapse03_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
+                    <div class="mt--30"></div>
                 </div>
-            </div>
-        </div> --}}
+        </div>
     </div>
 </section>
 @endsection

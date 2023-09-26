@@ -1,6 +1,4 @@
 @extends('layouts.app')
-@section('content')
-@extends('layouts.app')
 
 @section('content')
 <section class="ls ms text-sm-left text-center s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-280 s-pb-lg-250 s-pb-md-90 s-pb-60 c-gutter-60">
@@ -152,5 +150,4 @@
         </div>
     </div>
 </section>
-@endsection
 @endsection

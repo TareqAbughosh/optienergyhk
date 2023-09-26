@@ -36,6 +36,6 @@ Route::prefix('/services')->group(function() {
 });
 
 
-Route::get('test', function(){
-    return view('test');
-});
+Route::get('our-approch', function(){
+    return view('ourApproch');
+})->name('ourApproch');
