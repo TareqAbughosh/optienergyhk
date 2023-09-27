@@ -4,7 +4,7 @@
 <section class="ls ms text-sm-left text-center s-pt-xl-160 s-pt-lg-130 s-pt-md-90 s-pt-60 s-pb-xl-280 s-pb-lg-250 s-pb-md-90 s-pb-60 c-gutter-60">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-xl-10">
+            <div class="col-12 col-xl-10 animate" data-animation="fadeInUp" data-delay="150">
                 {{-- <img class="rounded" src="/images/services/renewableEnergy.webp" alt=""> --}}
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
@@ -15,138 +15,118 @@
                 </h2>
                 <div class="divider-25"></div>
                 <p>
-                    At Opti Energy, we don't just offer energy solutions; we offer a vision for a
-                    sustainable and efficient future. Located in the bustling business hub of Dubai,
-                    United Arab Emirates, and with an operational office in Turkey, we are strategically
-                    placed to serve a diverse clientele in some of the world's most dynamic markets.
+                    At Opti Energy, we are more than just an energy trading company; we are a dynamic
+                    force driving innovation and excellence in the global energy marketplace. With a
+                    distinguished reputation and a commitment to unwavering integrity, we have
+                    established ourselves as a trusted partner in the ever-evolving energy industry.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
             </div>
-            <div class="col-lg-6 col-12 col-xl-5">
+            <div class="col-lg-6 col-12 col-xl-5 animate" data-animation="fadeInUp" data-delay="150">
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Our Journey
+                        Our Vision
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>With over 15 years of cumulative team experience, we have been on the frontlines of
-                    the ever-evolving energy sector. Our journey has been fueled by our unwavering
-                    commitment to innovative solutions that not only meet but exceed market demands.
+                <p>Our vision is simple yet powerful: to be a catalyst for positive change in the energy
+                    sector. We aim to lead by example, setting the standard for sustainable and
+                    responsible energy trading practices that benefit our clients, partners, and the world
+                    at large.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
             </div>
-            <div class="col-lg-6 col-12 col-xl-5">
+            <div class="col-lg-6 col-12 col-xl-5 animate" data-animation="fadeInUp" data-delay="150">
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Our Expertise
+                        Global Presence, Local Expertise
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>Our team of more than 30 professionals comes from diverse backgrounds, bringing
-                    in a wealth of expertise in renewable energy equipment trading, crude oil trading,
-                    business advisory services, escrow services, and renewable energy power plant
-                    development.
+                <p>With a global reach that spans continents, we pride ourselves on being a truly
+                    international company with deep local insights. Our team of industry experts
+                    combines extensive global experience with a nuanced understanding of local
+                    markets, ensuring that we deliver tailored solutions to meet your specific needs.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
             </div>
-            <div class="col-lg-6 col-12 col-xl-5">
+            <div class="col-lg-6 col-12 col-xl-5 animate" data-animation="fadeInUp" data-delay="150">
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Our Reach
+                        Commitment to Excellence
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>With two strategic office locations in Dubai and Turkey, we're positioned to bring
-                    efficient and sustainable energy solutions to a global clientele. We understand the
-                    nuances of local markets while leveraging global synergies to deliver unparalleled
-                    service.
+                <p>At the core of our success lies an unwavering commitment to excellence. Whether
+                    it's navigating the complexities of energy markets, developing innovative risk
+                    mitigation strategies, or providing top-notch customer support, we go the extra mile
+                    to exceed expectations.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
             </div>
-            <div class="col-lg-6 col-12 col-xl-5">
+            <div class="col-lg-6 col-12 col-xl-5 animate" data-animation="fadeInUp" data-delay="150">
                 <div class="divider-30 hidden-above-lg"></div>
                 <h3 class="special-heading text-sm-left text-center">
                     <span class="text-capitalize">
-                        Our Commitment
+                        Integrity and Ethics
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>Our driving force is an unyielding commitment to sustainable practices and ethical
-                    business conduct. We believe in fostering relationships that are built on trust,
-                    transparency, and mutual respect.
+                <p>Integrity is the cornerstone of our operations. We conduct our business with the
+                    highest ethical standards, fostering trust and long-lasting partnerships. Our
+                    dedication to transparent and ethical practices is not just a commitment; it's a
+                    promise we uphold every day.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>
                 <div class="divider-30 hidden-above-lg"></div>
             </div>
-        </div>
-         <div class="col-12 col-xl-10">
-                <div id="accordion01" role="tablist">
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse01_header">
-                            <h5>
-                                <a data-toggle="collapse" href="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                    Our Philosophy
-                                </a>
-                            </h5>
-                        </div>
-
-                        <div id="collapse01" class="collapse show" role="tabpanel" aria-labelledby="collapse01_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Empowering a sustainable future by innovating across the energy spectrum.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse02_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                    Our Mission
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Deliver a comprehensive suite of reliable and efficient energy services.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse03_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                    Our Vision
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse03" class="collapse" role="tabpanel" aria-labelledby="collapse03_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Global nexus of innovative and sustainable energy solutions.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse04_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                    Our Goals
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Become a global leader in integrated energy solutions.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <div class="col-lg-6 col-12 col-xl-5 animate" data-animation="fadeInUp" data-delay="150">
+                <div class="divider-30 hidden-above-lg"></div>
+                <h3 class="special-heading text-sm-left text-center">
+                    <span class="text-capitalize">
+                        Sustainability Matters
+                    </span>
+                </h3>
+                <div class="divider-25"></div>
+                <p>We recognize the importance of sustainability in the energy industry. That's why we
+                    actively promote environmentally responsible energy trading practices. By aligning
+                    our operations with global sustainability goals, we contribute to a greener and more
+                    sustainable future.
+                </p>
+                <div class="divider-60 hidden-below-lg"></div>
+                <div class="divider-30 hidden-above-lg"></div>
             </div>
+            <div class="col-lg-6 col-12 col-xl-5 animate" data-animation="fadeInUp" data-delay="150">
+                <div class="divider-30 hidden-above-lg"></div>
+                <h3 class="special-heading text-sm-left text-center">
+                    <span class="text-capitalize">
+                        Your Partner in Success
+                    </span>
+                </h3>
+                <div class="divider-25"></div>
+                <p>At Opti Energy, our success is intertwined with yours. We are not just a service
+                    provider; we are your strategic partner, working side by side to help you achieve your
+                    energy trading objectives efficiently and responsibly.
+                </p>
+                <p>Experience the Opti Energy difference. Join us in shaping the future of energy
+                    trading, where excellence, integrity, and sustainability are more than just
+                    ideals—they are the cornerstones of our success.
+                </p>
+                <p>
+                    Contact us today to discover how Opti Energy can empower your journey in the
+                    energy marketplace.
+                </p>
+                <div class="divider-60 hidden-below-lg"></div>
+                <div class="divider-30 hidden-above-lg"></div>
+            </div>
+            
         </div>
     </div>
 </section>
