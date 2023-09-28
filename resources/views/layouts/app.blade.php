@@ -250,7 +250,7 @@
 								</form>
 							</div>
 							<div class="widget widget_social_icons">
-								<a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
+								<a href="https://www.linkedin.com/company/opti-energy-hk" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
 							</div>
 						</div>
 					</div>
@@ -266,7 +266,7 @@
 									<img src="/images/logo.png" alt="">
 									<span class="d-flex flex-column">
 										<span class="logo-text color-darkgrey"><strong>Opti Energy</strong></span>
-										<span class="logo-subtext"> Powering the Future.</span>
+										<span class="logo-subtext">Powering the future to Oil and Gas Trading HK.</span>
 									</span>
 								</a>
 							</div>
@@ -325,13 +325,13 @@
 
 						<div class="col-lg-4 col-md-6  animate" data-animation="fadeInUp">
 							<a href="/" class="logo">
-								<img src="images/logo.png" alt="">
+								<img src="/images/logo.png" alt="">
 								<span class="d-flex flex-column">
 									<span class="logo-text color-darkgrey">Opti Energy</span>
-									<span class="logo-subtext">  Powering the Future.</span>
+									<span class="logo-subtext">Powering the future to Oil and Gas Trading HK.</span>
 								</span>
 							</a>
-							<a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
+							<a href="https://www.linkedin.com/company/opti-energy-hk" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin" style="margin-left: 7px;"></a>
 						</div>
 
 						<div class="col-lg-3 col-md-6 animate" data-animation="fadeInUp">

@@ -241,7 +241,7 @@
         <div class="row">
             <h2 class="special-heading text-sm text-center">
                 <span class="text-capitalize">
-                    Our partners
+                    Some of our partners
                 </span>
             </h2>
             <br>
@@ -266,10 +266,12 @@
                     <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
                         <a href="https://yavuzkiymetlimadenler.com" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/Yavuz.png" alt="">
+                                <img src="/images/partners/Yavuz.png" alt=""  style="width: 25%; height: 30%">
                             </div>
                         </a>
                     </div>
+                    {{-- <div class="card" style="padding-bottom: 34px; background-color: inherit;
+                    border: 6px solid rgba(0,0,0,.125);"> --}}
                     <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
                         <a href="https://www.enrocks.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
@@ -278,9 +280,23 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
-                        <a href="https://www.hadefpartners.com/" target="_blank">
+                        <a href="https://www.renovo-energy.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
-                                <img src="/images/partners/hadef-and-partners.png" alt="">
+                                <img src="/images/gallery/full/renovo.png" class="card-img-top" alt="Client 2">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
+                        <a href="https://worldmarineservice.com/" target="_blank">
+                            <div class="bordered text-center p-xl-50 p-20 rounded">
+                                <img src="/images/partners/WMS-logo2021-r-1.png" class="card-img-top" alt="Client 2" style="width: 25%">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
+                        <a href="https://sevenseasgroup.com/" target="_blank">
+                            <div class="bordered text-center p-xl-50 p-20 rounded">
+                                <img src="/images/partners/sevenseas.png" class="card-img-top" alt="Client 2">
                             </div>
                         </a>
                     </div>
