@@ -175,7 +175,7 @@
                     <div class="divider-60 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
                     <span class="social-icons">
-                        <a href="#" class="fab fa-linkedin-in bg-icon light-bg rounded-icon"></a>
+                        <a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in bg-icon light-bg rounded-icon"></a>
                     </span>
                     <div class="fw-divider-space divider-xl-160 divider-lg-130 divider-md-90 divider-60"></div>
 

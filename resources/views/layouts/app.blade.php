@@ -273,7 +273,7 @@
 									<span class="logo-subtext">  Powering the Future.</span>
 								</span>
 							</a>
-							<a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
+							<a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin" style="margin-left: 7px;"></a>
 						</div>
 
 						<div class="col-lg-3 col-md-6 animate" data-animation="fadeInUp">
