@@ -148,87 +148,73 @@
 </section>
 <section class="ds text-sm-left text-center container-px-0 c-gutter-0">
     <div class="container-fluid">
-        <div class="row service-v2">
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
+        <div class="row service-v2 justify-content-center">
+            <div class="col-sm-6 col-md-4 col-xl-2 animate" data-animation="slideInLeft" data-delay="150">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
+                    <a class="link-icon" href="#">
                         <div class="icon-styled  fs-50">
                             <i class="ico ico-refinery"></i>
                         </div>
                     </a>
-                    <a href="service-single.html">
+                    <a href="#">
                         <h5>
-                            Thermal Power
+                            Oil Trading 
                         </h5>
                     </a>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
+            <div class="col-sm-6 col-md-4 col-xl-2 animate" data-animation="slideInLeft" data-delay="150">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
+                    <a class="link-icon" href="#">
                         <div class="icon-styled  fs-50">
                             <i class="ico ico-tank"></i>
                         </div>
                     </a>
-                    <a href="service-single.html">
+                    <a href="#">
                         <h5>
-                            Oil Platform
+                            Gas Trading
                         </h5>
                     </a>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
+            <div class="col-sm-6 col-md-4 col-xl-2 animate" data-animation="slideInLeft" data-delay="150">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
+                    <a class="link-icon" href="#">
                         <div class="icon-styled  fs-50">
                             <i class="ico ico-oil"></i>
                         </div>
                     </a>
-                    <a href="service-single.html">
+                    <a href="#">
                         <h5>
-                            Gas Flaring
+                            Petrochemicals
                         </h5>
                     </a>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
+            <div class="col-sm-6 col-md-4 col-xl-2  animate" data-animation="slideInLeft" data-delay="150">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
+                    <a class="link-icon" href="#">
                         <div class="icon-styled  fs-50">
                             <i class="ico ico-extraction"></i>
                         </div>
                     </a>
-                    <a href="service-single.html">
+                    <a href="#">
                         <h5>
-                            Oil Pump
+                            Oil Refinery
                         </h5>
                     </a>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
+            <div class="col-sm-6 col-md-4 col-xl-2 animate" data-animation="slideInLeft" data-delay="150">
                 <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
+                    <a class="link-icon" href="#">
                         <div class="icon-styled  fs-50">
                             <i class="ico ico-oil-tanker"></i>
                         </div>
                     </a>
-                    <a href="service-single.html">
+                    <a href="#">
                         <h5>
-                            Oil Refinaery
-                        </h5>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-xl-2   ">
-                <div class="icon-box service-single with-icon layout2 ds text-center">
-                    <a class="link-icon" href="service-single.html">
-                        <div class="icon-styled  fs-50">
-                            <i class="ico ico-pipe"></i>
-                        </div>
-                    </a>
-                    <a href="service-single.html">
-                        <h5>
-                            Factory
+                            Sales Channels
                         </h5>
                     </a>
                 </div>

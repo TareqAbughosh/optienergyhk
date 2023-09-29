@@ -266,7 +266,7 @@
 									<img src="/images/logo.png" alt="">
 									<span class="d-flex flex-column">
 										<span class="logo-text color-darkgrey"><strong>Opti Energy</strong></span>
-										<span class="logo-subtext">Powering the future to Oil and Gas Trading HK.</span>
+										<span class="logo-subtext">Oil & gas trading.</span>
 									</span>
 								</a>
 							</div>
@@ -328,7 +328,7 @@
 								<img src="/images/logo.png" alt="">
 								<span class="d-flex flex-column">
 									<span class="logo-text color-darkgrey">Opti Energy</span>
-									<span class="logo-subtext">Powering the future to Oil and Gas Trading HK.</span>
+									<span class="logo-subtext">Oil & gas trading.</span>
 								</span>
 							</a>
 							<a href="https://www.linkedin.com/company/opti-energy-hk" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin" style="margin-left: 7px;"></a>
