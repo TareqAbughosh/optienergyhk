@@ -351,7 +351,7 @@
 
 
 										</div>
-										<p>info@optienergieshk.com</p>
+										<p>Info@opti-trading.com</p>
 									</li>
 									<li class="icon-inline">
 										<div class="icon-styled icon-top bordered round  fs-16">
