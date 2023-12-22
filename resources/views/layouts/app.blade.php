@@ -36,7 +36,83 @@
             font-size: 24px; /* Adjust the font size as needed */
         }
     </style>
+	<style>
+		.button-container {
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
+	  height: 100%;
+	}
+	
+	.glass-btn {
+	  width: 100px;
+	  height: 100px;
+	  background-color: #fafafa;
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
+	  border-radius: 7px;
+	  margin-left: 1em;
+	  margin-right: 1em;
+	  cursor: pointer;
+	  transition: all 0.3s;
+	}
+	.glass-btn.blue-btn {
+	  box-shadow: 0px 20px 20px -17px rgba(0, 111, 255, 0.53);
+	}
+	.glass-btn.blue-btn:hover {
+	  box-shadow: 0px 20px 35px -16px rgba(0, 111, 255, 0.65);
+	}
+	.glass-btn.blue-btn .content {
+	  font-size: 4em;
+	  font-family: "Roboto", sans-serif;
+	  background: linear-gradient(to right, #006fff, #00acff 70%);
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  text-shadow: 0px 10px 37px rgba(0, 111, 255, 0.8);
+	}
+	.glass-btn.red-btn {
+	  box-shadow: 0px 20px 20px -17px rgba(255, 16, 39, 0.5);
+	}
+	.glass-btn.red-btn:hover {
+	  box-shadow: 0px 20px 35px -16px rgba(255, 16, 39, 0.57);
+	}
+	.glass-btn.red-btn .content {
+	  font-size: 4em;
+	  font-family: "Roboto", sans-serif;
+	  background: linear-gradient(to right, #ff1027, #ff4f06 70%);
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  text-shadow: 0px 10px 37px rgba(255, 16, 39, 0.6);
+	}
+	.glass-btn.amber-btn {
+	  box-shadow: 0px 20px 20px -17px rgba(255, 159, 16, 0.53);
+	}
+	.glass-btn.amber-btn:hover {
+	  box-shadow: 0px 20px 35px -16px rgba(255, 159, 16, 0.6);
+	}
+	.glass-btn.amber-btn .content {
+	  font-size: 4em;
+	  font-family: "Roboto", sans-serif;
+	  background: linear-gradient(to right, #ff8d00, #f7ad07 70%);
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  text-shadow: 0px 10px 37px rgba(255, 94, 16, 0.7);
+	}
+	.glass-btn:hover {
+	  background-color: whitesmoke;
+	  transform: translateY(-5px);
+	  transition: all 0.3s;
+	}
+	.animatepls {
+		background-color: whitesmoke;
+	  transform: translateY(-5px);
+	  transition: all 0.3s;
+	  box-shadow: 0px 20px 35px -16px rgba(255, 159, 16, 0.6);
+	}
+	</style>
 	<script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 	<!--[if lt IE 9]>
 		<script src="js/vendor/html5shiv.min.js"></script>
@@ -174,7 +250,7 @@
 								</form>
 							</div>
 							<div class="widget widget_social_icons">
-								<a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
+								<a href="https://www.linkedin.com/company/opti-energy-hk" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin"></a>
 							</div>
 						</div>
 					</div>
@@ -187,10 +263,10 @@
 						<div class="row d-flex align-items-center justify-content-center">
 							<div class="col-xl-3 col-md-4 col-12 text-center">
 								<a href="/" class="logo">
-									<img src="/images/logo-white.png" alt="">
+									<img src="/images/logo.png" alt="">
 									<span class="d-flex flex-column">
 										<span class="logo-text color-darkgrey"><strong>Opti Energy</strong></span>
-										<span class="logo-subtext"> Powering the Future.</span>
+										<span class="logo-subtext">Oil & gas trading.</span>
 									</span>
 								</a>
 							</div>
@@ -200,28 +276,7 @@
 									<ul class="nav sf-menu">
 
 										<li>
-											<a>Services</a>
-											<ul>
-												<li>
-													<a href="{{route('oilTrading')}}">Oil and Gas Trading</a>
-												</li>
-
-												<li>
-													<a href="{{route('renewableTrading')}}">Renewable Energy Equipment Trading</a>
-												</li>
-												
-												<li>
-													<a href="{{route('businessadv')}}">Business Advisory Services</a>
-												</li>
-												
-												<li>
-													<a href="{{route('renewableEnergy')}}"> Renewable Energy Development & Consultation </a>
-												</li>
-									
-												<li>
-													<a href="{{route('escrow')}}"> Escrow services </a>
-												</li>
-											</ul>
+											<a href="{{route('trading')}}">Trading</a>
 										</li>
 										<!-- eof pages -->
 										<!-- eof blog -->
@@ -230,6 +285,9 @@
 										<!-- eof shop -->
 
 										<!-- contacts -->
+										<li>
+											<a href="{{route('ourApproch')}}">Our Approach</a>
+										</li>
 										<li>
 											<a href="{{route('about_us')}}">About us</a>
 										</li>
@@ -267,13 +325,13 @@
 
 						<div class="col-lg-4 col-md-6  animate" data-animation="fadeInUp">
 							<a href="/" class="logo">
-								<img src="images/logo-white.png" alt="">
+								<img src="/images/logo.png" alt="">
 								<span class="d-flex flex-column">
 									<span class="logo-text color-darkgrey">Opti Energy</span>
-									<span class="logo-subtext">  Powering the Future.</span>
+									<span class="logo-subtext">Oil & gas trading.</span>
 								</span>
 							</a>
-							<a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin" style="margin-left: 7px;"></a>
+							<a href="https://www.linkedin.com/company/opti-energy-hk" class="fab fa-linkedin-in rounded-icon bg-icon fs-16" title="linkedin" style="margin-left: 7px;"></a>
 						</div>
 
 						<div class="col-lg-3 col-md-6 animate" data-animation="fadeInUp">
@@ -293,14 +351,16 @@
 
 
 										</div>
-										<p>Info@OptiEnergies.com</p>
+										<p>info@optienergieshk.com</p>
 									</li>
 									<li class="icon-inline">
 										<div class="icon-styled icon-top bordered round  fs-16">
 											<i class="fas fa-map-marker-alt"></i>
 										</div>
 										<p>
-											<a href="#">AG-PF-356, JLT, DXB, UAE.</a>
+											<a href="#">8/F., CHINA HONG KONG TOWER,
+												8-12 HENNESSY ROAD, WAN CHAI,
+												HONG KONG</a>
 										</p>
 									</li>
 
@@ -358,7 +418,23 @@
 
 	<!-- Google Map Script -->
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0pr5xCHpaTGv12l73IExOHDJisBP2FK4&callback=initGoogleMap"></script>
-
+	<script>
+		$('.card').mouseenter(function() {
+			// Find the child element with the class "child-class" within the parent div
+			const childElement = $(this).children().filter('.glass-btn');
+			// Add an animation class to the child element
+			childElement.addClass('animatepls');
+		});
+		
+		// If you also want to remove the animation class when the mouse leaves the parent div
+		$('.card').mouseleave(function() {
+			// Find the child element with the class "child-class" within the parent div
+			const childElement = $(this).find('.glass-btn');
+			
+			// Remove the animation class from the child element
+			childElement.removeClass('animatepls');
+		});
+		</script>
 </body>
 
 </html>

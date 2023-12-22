@@ -125,54 +125,6 @@
             </div>
         </div>
         
-            {{-- <div class="col-12 col-xl-10 offset-xl-1">
-                <div id="accordion01" role="tablist">
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse01_header">
-                            <h5>
-                                <a data-toggle="collapse" href="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                    How Do We Conduct Shipping?
-                                </a>
-                            </h5>
-                        </div>
-
-                        <div id="collapse01" class="collapse show" role="tabpanel" aria-labelledby="collapse01_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse02_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                    Can I Pay After Receiving An Order?
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="collapse03_header">
-                            <h5>
-                                <a class="collapsed" data-toggle="collapse" href="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                    Contacting The Sales Department
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapse03" class="collapse" role="tabpanel" aria-labelledby="collapse03_header" data-parent="#accordion01">
-                            <div class="card-body">
-                                Our team has been gelpingclients throughout the country for 10 years lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> --}}
     </div>
 </section>
 @endsection

@@ -18,7 +18,7 @@ class ContactUsController extends Controller
 
         try { 
         Mail::send([], $request->all(), function($message) use($request) {
-            $message->to('info@optienergies.com', 'Opti energies')->subject
+            $message->to('Info@optienergieshk.com', 'Opti energies')->subject
                ('A new contact!')
             ->subject($request->subject)
             ->html("<!DOCTYPE html>
@@ -62,7 +62,7 @@ class ContactUsController extends Controller
                 <p>Thank you for reaching out to us. We will respond to this inquiry as soon as possible.</p>
             
                 <p>Best regards,</p>
-                <p>Opti Energies</p>
+                <p>Opti Energies HK</p>
             </body>
             </html>
             ");

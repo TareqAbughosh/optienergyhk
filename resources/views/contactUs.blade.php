@@ -104,7 +104,9 @@
                             <h6 class="">
                                 Our Address
                             </h6>
-                            <p class="">AG-PF-356, JLT, DXB, UAE.</p>
+                            <p class="">8/F., CHINA HONG KONG TOWER,
+                                8-12 HENNESSY ROAD, WAN CHAI,
+                                HONG KONG</p>
                         </div>
                     </div>
                     <div class="divider-50 hidden-below-lg"></div>
@@ -136,7 +138,7 @@
                             <h6 class="">
                                 Our Email
                             </h6>
-                            <p class="">Info@OptiEnergies.com</p>
+                            <p class="">info@optienergieshk.com</p>
                         </div>
                     </div>
                     <div class="container smaller-container mt-5">
@@ -145,11 +147,11 @@
                             <div class="row no-gutters">
                                 <!-- Location: UAE -->
                                 <div class="col-md-4" style="inherit; border: none;">
-                                    <img src="/images/dubai.png" class="card-img img-fluid" alt="UAE">
+                                    <img src="/images/hongkong.jpeg" class="card-img img-fluid" alt="UAE">
                                 </div>
                                 <div class="col-8">
                                     <div class="card-body">
-                                        <h6 class="card-title" style="font-size: small;">Dubai, UAE.</h5>
+                                        <h6 class="card-title" style="font-size: small;">China, Hong Kong</h5>
                                     </div>
                                 </div>
                             </div>
@@ -175,7 +177,7 @@
                     <div class="divider-60 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>
                     <span class="social-icons">
-                        <a href="https://www.linkedin.com/company/opti-energydmcc" class="fab fa-linkedin-in bg-icon light-bg rounded-icon"></a>
+                        <a href="https://www.linkedin.com/company/opti-energy-hk" class="fab fa-linkedin-in bg-icon light-bg rounded-icon"></a>
                     </span>
                     <div class="fw-divider-space divider-xl-160 divider-lg-130 divider-md-90 divider-60"></div>
 
