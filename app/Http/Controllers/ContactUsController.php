@@ -68,7 +68,6 @@ class ContactUsController extends Controller
             ");
          });
         } catch (\Exception $e){
-            dd($e);
             return back()->with('error', 'sorry something went wrong!');
         }
         return back()->with('success', 'Your form has been submitted successfully!');
