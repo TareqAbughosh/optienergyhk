@@ -17,7 +17,7 @@
                 <p>
                     In the world of commodity trading and energy finance, transactions are more than
                     mere exchanges—they're strategic movements that can make or break your
-                    business. Opti Energy offers specialized escrow services designed to ensure each
+                    business. Opti Trading offers specialized escrow services designed to ensure each
                     transaction proceeds with utmost security and transparency.
 
                     Core Competencies
@@ -106,7 +106,7 @@
                 </h3>
                 <div class="divider-25"></div>
                 <p>We understand the importance of trust in high-value transactions. Our processes are
-                    fully transparent, and we keep you informed at every step. At Opti Energy, we
+                    fully transparent, and we keep you informed at every step. At Opti Trading, we
                     believe that a successful transaction is one where both parties walk away satisfied
                     and secure.
                 </p>
@@ -136,7 +136,7 @@
                 </h3>
                 <div class="divider-25"></div>
                 <p>Entrust your commodity trading and energy finance transactions to experts who
-                    understand the stakes. Reach out to Opti Energy today for a personalized
+                    understand the stakes. Reach out to Opti Trading today for a personalized
                     consultation on how our specialized escrow services can benefit you.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>

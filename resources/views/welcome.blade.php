@@ -79,7 +79,7 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <p class="special-heading" style="letter-spacing: 3px;">
                     <span>
-                        At Opti Energy, we adopt a global and agile approach to fulfill the energy
+                        At Opti Trading, we adopt a global and agile approach to fulfill the energy
                         requirements of our partners worldwide. This is made possible through our strong
                         and strategic partnerships in the industry and our streamlined supply chain
                         operations. We pride ourselves on supporting suppliers in maintaining uninterrupted
@@ -306,7 +306,7 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <p class="special-heading">
                     <span>
-                        At Opti Energy, we are more than just an energy trading company; we are a dynamic
+                        At Opti Trading, we are more than just an energy trading company; we are a dynamic
                         force driving innovation and excellence in the global energy marketplace. With a
                         distinguished reputation and a commitment to unwavering integrity, we have
                         established ourselves as a trusted partner in the ever-evolving energy industry.

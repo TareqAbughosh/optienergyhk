@@ -16,7 +16,7 @@
                 <div class="divider-25"></div>
                 <p>
                     The quest for clean, sustainable energy solutions is more than just a trend—it's a
-                    global imperative. At Opti Energy, we take this responsibility seriously, offering expert
+                    global imperative. At Opti Trading, we take this responsibility seriously, offering expert
                     consultation and project development services in the renewable energy sector.
 
                     Core Competencies
@@ -137,7 +137,7 @@
                 </h3>
                 <div class="divider-25"></div>
                 <p>Ready to make strides toward a greener, more sustainable energy landscape?
-                    Contact Opti Energy today for a personalized consultation and discover how we can
+                    Contact Opti Trading today for a personalized consultation and discover how we can
                     turn your renewable energy visions into reality.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>

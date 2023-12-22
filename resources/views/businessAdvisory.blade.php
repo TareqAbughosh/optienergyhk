@@ -16,7 +16,7 @@
                 <div class="divider-25"></div>
                 <p>
                     In today's complex and rapidly changing business environment, making the right
-                    decisions can be challenging. At Opti Energy, we're here to guide you through it all,
+                    decisions can be challenging. At Opti Trading, we're here to guide you through it all,
                     offering expert advice that's tailored to your unique business needs.
 
                     Core Competencies
@@ -107,7 +107,7 @@
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>At Opti Energy, we believe in establishing long-term relationships with our clients.
+                <p>At Opti Trading, we believe in establishing long-term relationships with our clients.
                     With offices in Dubai and Turkey, we're equipped to offer personalized service that
                     takes into account both global standards and local nuances.
                 </p>

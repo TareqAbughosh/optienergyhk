@@ -15,11 +15,11 @@
                     </span>
                 </h2>
                 <h4 class="text-center">
-                    Welcome to Opti Energy
+                    Welcome to Opti Trading
                 </h4>
                 <div class="divider-25"></div>
                 <p>
-                    At Opti Energy, we are committed to excellence in oil and gas trading services,
+                    At Opti Trading, we are committed to excellence in oil and gas trading services,
                     delivering value to our clients through innovation, integrity, and expertise. Our
                     comprehensive range of services ensures that we meet your every need in the
                     energy trading sector.

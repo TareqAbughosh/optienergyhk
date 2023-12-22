@@ -16,7 +16,7 @@
                 <div class="divider-25"></div>
                 <p>
                     When it comes to trading in renewable energy equipment, the stakes are not just
-                    financial; they're environmental too. At Opti Energy, we’re passionate about
+                    financial; they're environmental too. At Opti Trading, we’re passionate about
                     contributing to a greener planet, and we bring that passion to every deal we make.
 
                     Core Competencies
@@ -117,7 +117,7 @@
                 </h3>
                 <div class="divider-25"></div>
                 <p>Interested in trading renewable energy equipment with a partner who values
-                    sustainability as much as you do? Contact Opti Energy today for a personalized
+                    sustainability as much as you do? Contact Opti Trading today for a personalized
                     consultation.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>

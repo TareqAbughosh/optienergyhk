@@ -14,7 +14,7 @@
                 <div class="divider-30 hidden-above-lg"></div>
                 <p class="special-heading">
                     <span>
-                        At Opti Energy, we adopt a global and agile approach to fulfill the energy
+                        At Opti Trading, we adopt a global and agile approach to fulfill the energy
                         requirements of our partners worldwide. This is made possible through our strong
                         and strategic partnerships in the industry and our streamlined supply chain
                         operations. We pride ourselves on supporting suppliers in maintaining uninterrupted

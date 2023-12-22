@@ -15,7 +15,7 @@
                 </h2>
                 <div class="divider-25"></div>
                 <p>
-                    At Opti Energy, we are more than just an energy trading company; we are a dynamic
+                    At Opti Trading, we are more than just an energy trading company; we are a dynamic
                     force driving innovation and excellence in the global energy marketplace. With a
                     distinguished reputation and a commitment to unwavering integrity, we have
                     established ourselves as a trusted partner in the ever-evolving energy industry.
@@ -111,16 +111,16 @@
                     </span>
                 </h3>
                 <div class="divider-25"></div>
-                <p>At Opti Energy, our success is intertwined with yours. We are not just a service
+                <p>At Opti Trading, our success is intertwined with yours. We are not just a service
                     provider; we are your strategic partner, working side by side to help you achieve your
                     energy trading objectives efficiently and responsibly.
                 </p>
-                <p>Experience the Opti Energy difference. Join us in shaping the future of energy
+                <p>Experience the Opti Trading difference. Join us in shaping the future of energy
                     trading, where excellence, integrity, and sustainability are more than just
                     ideals—they are the cornerstones of our success.
                 </p>
                 <p>
-                    Contact us today to discover how Opti Energy can empower your journey in the
+                    Contact us today to discover how Opti Trading can empower your journey in the
                     energy marketplace.
                 </p>
                 <div class="divider-60 hidden-below-lg"></div>

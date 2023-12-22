@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Opti Energy</title>
+	<title>Opti Trading</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -265,7 +265,7 @@
 								<a href="/" class="logo">
 									<img src="/images/logo.png" alt="">
 									<span class="d-flex flex-column">
-										<span class="logo-text color-darkgrey"><strong>Opti Energy</strong></span>
+										<span class="logo-text color-darkgrey"><strong>Opti Trading</strong></span>
 										<span class="logo-subtext">Oil & gas trading.</span>
 									</span>
 								</a>
@@ -327,7 +327,7 @@
 							<a href="/" class="logo">
 								<img src="/images/logo.png" alt="">
 								<span class="d-flex flex-column">
-									<span class="logo-text color-darkgrey">Opti Energy</span>
+									<span class="logo-text color-darkgrey">Opti Trading</span>
 									<span class="logo-subtext">Oil & gas trading.</span>
 								</span>
 							</a>
