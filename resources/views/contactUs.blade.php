@@ -157,19 +157,19 @@
                             </div>
                         </div>
                 
-                        {{-- <div class="card mb-4" style="background-color: inherit; border: none;">
+                        <div class="card mb-4" style="background-color: inherit; border: none;">
                             <div class="row no-gutters">
                                 <!-- Location: Turkey -->
                                 <div class="col-md-4" style="inherit; border: none;">
-                                    <img src="/images/turkey.jpeg" class="card-img" alt="Turkey">
+                                    <img src="/images/dubai.jpeg" class="card-img" alt="dubai">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
-                                        <h5 class="card-title" style="font-size: small;">Istanbul, Turkey</h5>
+                                        <h5 class="card-title" style="font-size: small;">Global Formations Office 611, 6th Floor,Fairmont Dubai, Sheikh Zayed Road, Dubai, United Arab Emirates</h5>
                                     </div>
                                 </div>
                             </div>
-                        </div> --}}
+                        </div>
                     </div>
                     <div class="divider-50 hidden-below-lg"></div>
                     <div class="divider-30 hidden-above-lg"></div>

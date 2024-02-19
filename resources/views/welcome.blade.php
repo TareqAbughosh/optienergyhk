@@ -258,13 +258,13 @@
                     </div>
                     {{-- <div class="card" style="padding-bottom: 34px; background-color: inherit;
                     border: 6px solid rgba(0,0,0,.125);"> --}}
-                    <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
+                    {{-- <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
                         <a href="https://www.enrocks.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
                                 <img src="/images/partners/enrocks.svg" alt="">
                             </div>
                         </a>
-                    </div>
+                    </div> --}}
                     <div class="col-lg-4 col-sm-6  animate" data-animation="fadeInUp" data-delay="150">
                         <a href="https://www.renovo-energy.com/" target="_blank">
                             <div class="bordered text-center p-xl-50 p-20 rounded">
