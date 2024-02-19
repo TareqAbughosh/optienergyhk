@@ -363,7 +363,17 @@
 												HONG KONG</a>
 										</p>
 									</li>
-
+									<li class="icon-inline">
+										<div class="icon-styled icon-top bordered round  fs-16">
+											<i class="fas fa-map-marker-alt"></i>
+										</div>
+										<p>
+											<a href="#">Global Formations Office 611, 
+												6th Floor,Fairmont Dubai, 
+												Sheikh Zayed Road, 
+												Dubai, United Arab Emirates</a>
+										</p>
+									</li>
 								</ul>
 							</div>
 						</div>

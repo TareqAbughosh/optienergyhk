@@ -165,7 +165,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
-                                        <h5 class="card-title" style="font-size: small;">Global Formations Office 611, 6th Floor,Fairmont Dubai, Sheikh Zayed Road, Dubai, United Arab Emirates</h5>
+                                        <h5 class="card-title" style="font-size: small;">UAE, Dubai</h5>
                                     </div>
                                 </div>
                             </div>
